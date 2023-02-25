@@ -1,0 +1,1730 @@
+﻿Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+3/19/2021 12:00 AM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 12:30 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 1:00 AM,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 1:30 AM,21 C,19 C,88 %,SSW,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 2:00 AM,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 2:30 AM,21 C,18 C,83 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 3:00 AM,21 C,19 C,88 %,SW,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Cloudy
+3/19/2021 3:30 AM,21 C,19 C,88 %,SSW,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/19/2021 4:00 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Cloudy
+3/19/2021 4:30 AM,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/19/2021 5:00 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Heavy Drizzle
+3/19/2021 5:30 AM,21 C,19 C,88 %,SSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/19/2021 6:00 AM,21 C,18 C,83 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/19/2021 6:30 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 7:00 AM,22 C,19 C,83 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 7:30 AM,22 C,19 C,83 %,SSW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 8:00 AM,23 C,19 C,78 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 8:30 AM,24 C,19 C,73 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 9:00 AM,24 C,19 C,73 %,SSE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Cloudy
+3/19/2021 9:06 AM,24 C,20 C,78 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 9:30 AM,25 C,20 C,74 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 10:00 AM,26 C,20 C,69 %,SE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/19/2021 10:30 AM,26 C,20 C,69 %,SE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/19/2021 11:00 AM,27 C,20 C,65 %,SE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 11:30 AM,27 C,20 C,65 %,ESE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 12:00 PM,27 C,20 C,65 %,ESE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 12:30 PM,27 C,21 C,70 %,NE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 1:00 PM,27 C,20 C,65 %,ENE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 1:30 PM,28 C,20 C,62 %,E,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/19/2021 2:00 PM,27 C,21 C,70 %,ENE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 2:30 PM,28 C,21 C,66 %,ENE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 3:00 PM,27 C,21 C,70 %,ENE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/19/2021 3:30 PM,27 C,20 C,65 %,ENE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/19/2021 4:00 PM,26 C,21 C,74 %,ENE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 4:30 PM,27 C,21 C,70 %,E,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 5:00 PM,26 C,21 C,74 %,E,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 5:30 PM,25 C,20 C,74 %,E,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 6:00 PM,25 C,21 C,78 %,E,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 6:30 PM,25 C,21 C,78 %,E,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 7:00 PM,25 C,22 C,83 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 7:30 PM,25 C,22 C,83 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/19/2021 8:00 PM,24 C,22 C,89 %,E,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/19/2021 8:30 PM,24 C,22 C,89 %,ENE,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/19/2021 9:00 PM,24 C,22 C,89 %,ENE,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/19/2021 9:30 PM,24 C,22 C,89 %,E,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 10:00 PM,24 C,22 C,89 %,NE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/19/2021 10:30 PM,23 C,22 C,94 %,NE,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 11:00 PM,24 C,22 C,89 %,ENE,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/19/2021 11:30 PM,23 C,22 C,94 %,ENE,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/20/2021 12:00 AM,23 C,22 C,94 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 12:30 AM,23 C,21 C,88 %,E,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 1:00 AM,23 C,22 C,94 %,E,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/20/2021 1:30 AM,23 C,22 C,94 %,E,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/20/2021 2:00 AM,23 C,22 C,94 %,E,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/20/2021 2:30 AM,23 C,22 C,94 %,E,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 3:00 AM,22 C,22 C,100 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 3:30 AM,22 C,21 C,94 %,SW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/20/2021 4:00 AM,22 C,22 C,100 %,SSW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 4:30 AM,22 C,22 C,100 %,S,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 4:42 AM,22 C,22 C,100 %,SSW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 5:00 AM,22 C,22 C,100 %,SW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 5:30 AM,22 C,22 C,100 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 6:00 AM,22 C,22 C,100 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 6:30 AM,23 C,22 C,94 %,SSW,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 7:00 AM,23 C,22 C,94 %,S,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 7:23 AM,23 C,22 C,94 %,SSE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/20/2021 7:30 AM,23 C,22 C,94 %,SSE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 8:00 AM,22 C,22 C,100 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 8:30 AM,23 C,22 C,94 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 9:00 AM,23 C,21 C,88 %,ESE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 9:17 AM,23 C,22 C,94 %,ESE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 9:30 AM,23 C,21 C,88 %,E,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+3/20/2021 10:00 AM,24 C,22 C,89 %,ENE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 10:30 AM,24 C,22 C,89 %,NE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 11:00 AM,24 C,21 C,83 %,NE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 11:30 AM,25 C,22 C,83 %,N,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 12:00 PM,26 C,22 C,78 %,NE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 12:30 PM,25 C,21 C,78 %,N,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 1:00 PM,26 C,21 C,74 %,N,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 1:30 PM,26 C,21 C,74 %,N,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 2:00 PM,26 C,21 C,74 %,NNE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 2:30 PM,26 C,21 C,74 %,N,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 3:00 PM,26 C,21 C,74 %,N,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 3:30 PM,26 C,21 C,74 %,ENE,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 4:00 PM,26 C,22 C,78 %,ENE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 4:30 PM,25 C,21 C,78 %,ENE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 5:00 PM,25 C,21 C,78 %,ENE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 5:30 PM,25 C,22 C,83 %,ENE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 6:00 PM,24 C,22 C,89 %,E,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+3/20/2021 6:30 PM,24 C,21 C,83 %,SE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 7:00 PM,23 C,21 C,88 %,SE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 7:30 PM,23 C,20 C,83 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 8:00 PM,23 C,21 C,88 %,ENE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 8:30 PM,23 C,21 C,88 %,SE,4 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 8:44 PM,23 C,22 C,94 %,NE,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/20/2021 9:00 PM,23 C,22 C,94 %,ESE,2 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+3/20/2021 9:30 PM,23 C,22 C,94 %,E,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 10:00 PM,23 C,21 C,88 %,NE,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 10:30 PM,24 C,22 C,89 %,SE,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 11:00 PM,23 C,22 C,94 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 11:20 PM,23 C,22 C,94 %,S,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/20/2021 11:30 PM,24 C,22 C,89 %,SSE,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 12:00 AM,24 C,22 C,89 %,ENE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 12:30 AM,25 C,22 C,83 %,ENE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 1:00 AM,25 C,21 C,78 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 1:30 AM,25 C,22 C,83 %,E,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 2:00 AM,25 C,22 C,83 %,E,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 2:30 AM,25 C,22 C,83 %,E,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 3:00 AM,25 C,22 C,83 %,E,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 3:30 AM,25 C,22 C,83 %,E,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/21/2021 4:00 AM,25 C,22 C,83 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 4:30 AM,24 C,22 C,89 %,E,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 5:00 AM,24 C,22 C,89 %,E,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 5:30 AM,24 C,22 C,89 %,ESE,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/21/2021 6:00 AM,24 C,21 C,83 %,ENE,20 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 6:30 AM,23 C,20 C,83 %,E,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 7:00 AM,23 C,21 C,88 %,E,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 7:30 AM,24 C,21 C,83 %,E,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 7:54 AM,24 C,23 C,94 %,NNE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 8:00 AM,24 C,23 C,94 %,NE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain Shower
+3/21/2021 8:16 AM,24 C,23 C,94 %,NE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain Shower
+3/21/2021 8:30 AM,24 C,23 C,94 %,ENE,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Heavy Rain Shower
+3/21/2021 9:00 AM,25 C,24 C,94 %,ESE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 9:30 AM,26 C,23 C,83 %,ENE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 9:43 AM,25 C,23 C,89 %,ENE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 10:00 AM,26 C,23 C,83 %,ENE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 10:30 AM,27 C,23 C,79 %,E,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 11:00 AM,27 C,23 C,79 %,E,20 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 11:30 AM,27 C,22 C,74 %,ENE,24 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 12:00 PM,26 C,21 C,74 %,NE,28 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 12:30 PM,27 C,21 C,70 %,ENE,19 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/21/2021 1:00 PM,27 C,22 C,74 %,NE,24 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 1:30 PM,26 C,22 C,78 %,ENE,22 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 2:00 PM,26 C,22 C,78 %,ENE,20 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 2:30 PM,25 C,22 C,83 %,E,24 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/21/2021 3:00 PM,25 C,22 C,83 %,ENE,24 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/21/2021 3:30 PM,25 C,22 C,83 %,E,20 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Thunder
+3/21/2021 3:40 PM,25 C,22 C,83 %,E,20 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain with Thunder
+3/21/2021 4:00 PM,24 C,23 C,94 %,ENE,24 km/h,0 km/h,"1,014.52 hPa",0.0 mm,T-Storm
+3/21/2021 4:19 PM,23 C,22 C,94 %,ESE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Heavy T-Storm
+3/21/2021 4:30 PM,23 C,22 C,94 %,ESE,22 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Heavy T-Storm
+3/21/2021 4:47 PM,23 C,22 C,94 %,E,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,T-Storm
+3/21/2021 5:00 PM,23 C,22 C,94 %,E,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,T-Storm
+3/21/2021 5:30 PM,23 C,22 C,94 %,E,22 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Heavy Rain Shower
+3/21/2021 6:00 PM,23 C,22 C,94 %,ENE,24 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Heavy Rain Shower
+3/21/2021 6:30 PM,23 C,22 C,94 %,NE,28 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain
+3/21/2021 6:53 PM,23 C,22 C,94 %,E,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/21/2021 7:00 PM,22 C,21 C,94 %,E,20 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/21/2021 7:30 PM,23 C,22 C,94 %,E,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/21/2021 7:43 PM,22 C,22 C,100 %,NE,24 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/21/2021 8:00 PM,23 C,22 C,94 %,ENE,15 km/h,33 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/21/2021 8:30 PM,22 C,22 C,100 %,ENE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Heavy Rain
+3/21/2021 9:00 PM,22 C,22 C,100 %,ENE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Rain
+3/21/2021 9:23 PM,22 C,21 C,94 %,NE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/21/2021 9:30 PM,22 C,21 C,94 %,NE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/21/2021 10:00 PM,22 C,21 C,94 %,ENE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/21/2021 10:30 PM,22 C,21 C,94 %,E,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/21/2021 11:00 PM,23 C,22 C,94 %,E,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/21/2021 11:30 PM,23 C,22 C,94 %,E,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 12:00 AM,23 C,22 C,94 %,E,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 12:30 AM,23 C,21 C,88 %,E,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 1:00 AM,24 C,22 C,89 %,E,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 1:30 AM,24 C,21 C,83 %,ENE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 2:00 AM,23 C,22 C,94 %,ENE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 2:20 AM,23 C,22 C,94 %,ENE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 2:30 AM,23 C,22 C,94 %,ENE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 3:00 AM,23 C,22 C,94 %,ENE,6 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain Shower
+3/22/2021 3:30 AM,22 C,22 C,100 %,E,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain
+3/22/2021 3:54 AM,22 C,21 C,94 %,E,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain
+3/22/2021 4:00 AM,21 C,21 C,100 %,ENE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/22/2021 4:19 AM,22 C,21 C,94 %,ENE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/22/2021 4:30 AM,22 C,21 C,94 %,E,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/22/2021 5:00 AM,22 C,21 C,94 %,E,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain
+3/22/2021 5:30 AM,22 C,21 C,94 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/22/2021 6:00 AM,22 C,21 C,94 %,ENE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/22/2021 6:24 AM,21 C,21 C,100 %,E,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/22/2021 6:30 AM,22 C,21 C,94 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/22/2021 6:39 AM,21 C,20 C,94 %,ESE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/22/2021 6:47 AM,21 C,20 C,94 %,ESE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/22/2021 7:00 AM,21 C,20 C,94 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/22/2021 7:30 AM,21 C,21 C,100 %,ENE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain
+3/22/2021 7:42 AM,22 C,21 C,94 %,ENE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/22/2021 8:00 AM,21 C,21 C,100 %,ENE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/22/2021 8:19 AM,22 C,20 C,88 %,ENE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/22/2021 8:30 AM,22 C,19 C,83 %,ENE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Drizzle
+3/22/2021 9:00 AM,22 C,19 C,83 %,ENE,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/22/2021 9:30 AM,22 C,20 C,88 %,NE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/22/2021 10:00 AM,22 C,20 C,88 %,NE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+3/22/2021 10:30 AM,23 C,21 C,88 %,E,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/22/2021 11:00 AM,23 C,20 C,83 %,ESE,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+3/22/2021 11:30 AM,23 C,21 C,88 %,NE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 12:00 PM,22 C,21 C,94 %,ENE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 12:30 PM,22 C,21 C,94 %,E,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+3/22/2021 12:43 PM,22 C,21 C,94 %,ENE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain Shower
+3/22/2021 1:00 PM,22 C,21 C,94 %,N,22 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 1:30 PM,23 C,21 C,88 %,NE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+3/22/2021 1:51 PM,22 C,22 C,100 %,NE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 2:00 PM,22 C,21 C,94 %,NNE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 2:30 PM,22 C,21 C,94 %,N,4 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+3/22/2021 2:54 PM,22 C,21 C,94 %,NW,28 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+3/22/2021 3:00 PM,22 C,21 C,94 %,NW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+3/22/2021 3:13 PM,22 C,22 C,100 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+3/22/2021 3:30 PM,22 C,21 C,94 %,ENE,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain Shower
+3/22/2021 3:35 PM,22 C,21 C,94 %,E,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain Shower
+3/22/2021 3:49 PM,22 C,22 C,100 %,ESE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 3:57 PM,22 C,21 C,94 %,E,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 4:00 PM,22 C,22 C,100 %,E,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 4:30 PM,22 C,21 C,94 %,ENE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/22/2021 5:00 PM,23 C,21 C,88 %,ENE,22 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/22/2021 5:30 PM,23 C,21 C,88 %,ENE,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/22/2021 6:00 PM,23 C,21 C,88 %,ENE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/22/2021 6:30 PM,22 C,21 C,94 %,ENE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+3/22/2021 7:00 PM,22 C,21 C,94 %,E,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 7:30 PM,23 C,21 C,88 %,E,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 8:00 PM,23 C,21 C,88 %,ENE,20 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 8:30 PM,23 C,21 C,88 %,ENE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 9:00 PM,23 C,21 C,88 %,ENE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+3/22/2021 9:30 PM,23 C,22 C,94 %,ENE,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 10:00 PM,23 C,22 C,94 %,E,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+3/22/2021 10:30 PM,22 C,22 C,100 %,E,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+3/22/2021 10:54 PM,22 C,22 C,100 %,ENE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+3/22/2021 11:00 PM,22 C,22 C,100 %,NE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+3/22/2021 11:30 PM,23 C,22 C,94 %,NE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+3/23/2021 12:00 AM,23 C,22 C,94 %,ENE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+3/23/2021 12:30 AM,22 C,21 C,94 %,NE,22 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+3/23/2021 1:00 AM,23 C,22 C,94 %,ENE,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+3/23/2021 1:30 AM,23 C,22 C,94 %,NE,26 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+3/23/2021 2:00 AM,23 C,22 C,94 %,NE,28 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+3/23/2021 2:30 AM,23 C,22 C,94 %,NE,24 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+3/23/2021 3:00 AM,23 C,22 C,94 %,NE,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 3:30 AM,23 C,22 C,94 %,NE,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 4:00 AM,23 C,22 C,94 %,NE,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Rain
+3/23/2021 4:30 AM,22 C,22 C,100 %,NE,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Rain
+3/23/2021 5:00 AM,22 C,21 C,94 %,NNE,19 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Rain
+3/23/2021 5:30 AM,23 C,22 C,94 %,NNE,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Rain
+3/23/2021 6:00 AM,23 C,22 C,94 %,NNE,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 6:22 AM,23 C,23 C,100 %,N,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Rain
+3/23/2021 6:30 AM,23 C,23 C,100 %,N,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 7:00 AM,23 C,22 C,94 %,N,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 7:07 AM,23 C,23 C,100 %,N,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 7:30 AM,23 C,23 C,100 %,N,26 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 8:00 AM,23 C,23 C,100 %,NNE,26 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Rain
+3/23/2021 8:16 AM,23 C,23 C,100 %,NNE,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 8:30 AM,23 C,23 C,100 %,NNE,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 8:46 AM,23 C,23 C,100 %,NNE,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain
+3/23/2021 8:55 AM,23 C,23 C,100 %,NNE,22 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Light Rain Shower
+3/23/2021 9:00 AM,23 C,23 C,100 %,NNE,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain Shower
+3/23/2021 9:20 AM,23 C,23 C,100 %,NNE,30 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Rain
+3/23/2021 9:30 AM,23 C,23 C,100 %,NNE,31 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Rain
+3/23/2021 10:00 AM,23 C,23 C,100 %,N,26 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Rain
+3/23/2021 10:30 AM,23 C,23 C,100 %,N,22 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Rain
+3/23/2021 11:00 AM,23 C,23 C,100 %,N,35 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Rain / Windy
+3/23/2021 11:13 AM,23 C,23 C,100 %,N,26 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Light Rain
+3/23/2021 11:23 AM,23 C,23 C,100 %,N,20 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Heavy Drizzle
+3/23/2021 11:30 AM,23 C,23 C,100 %,N,19 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Light Drizzle
+3/23/2021 11:51 AM,24 C,23 C,94 %,N,22 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Light Rain
+3/23/2021 12:00 PM,24 C,23 C,94 %,N,20 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Showers in the Vicinity
+3/23/2021 12:26 PM,24 C,23 C,94 %,N,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Rain
+3/23/2021 12:30 PM,24 C,23 C,94 %,N,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Rain
+3/23/2021 1:00 PM,24 C,24 C,100 %,N,19 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Light Rain
+3/23/2021 1:30 PM,24 C,24 C,100 %,N,28 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Drizzle
+3/23/2021 2:00 PM,24 C,24 C,100 %,N,28 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Drizzle
+3/23/2021 2:25 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Drizzle
+3/23/2021 2:30 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Drizzle
+3/23/2021 3:00 PM,25 C,23 C,89 %,N,33 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Rain / Windy
+3/23/2021 3:30 PM,25 C,24 C,94 %,N,28 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Rain
+3/23/2021 3:44 PM,25 C,24 C,94 %,N,31 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Rain
+3/23/2021 4:00 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Rain
+3/23/2021 4:30 PM,24 C,23 C,94 %,N,35 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Light Rain / Windy
+3/23/2021 5:00 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/23/2021 5:28 PM,24 C,23 C,94 %,N,35 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy / Windy
+3/23/2021 5:30 PM,24 C,23 C,94 %,N,33 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy / Windy
+3/23/2021 6:00 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/23/2021 6:30 PM,24 C,23 C,94 %,N,30 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Cloudy
+3/23/2021 7:00 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Mostly Cloudy
+3/23/2021 7:30 PM,24 C,23 C,94 %,N,30 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Mostly Cloudy
+3/23/2021 8:00 PM,24 C,23 C,94 %,N,30 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Mostly Cloudy
+3/23/2021 8:30 PM,24 C,23 C,94 %,N,31 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/23/2021 9:00 PM,24 C,23 C,94 %,N,28 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Cloudy
+3/23/2021 9:30 PM,24 C,23 C,94 %,N,28 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Cloudy
+3/23/2021 10:00 PM,24 C,23 C,94 %,N,24 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Rain Shower
+3/23/2021 10:30 PM,24 C,23 C,94 %,N,17 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Light Rain Shower
+3/23/2021 11:00 PM,24 C,23 C,94 %,N,22 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Light Rain Shower
+3/23/2021 11:30 PM,24 C,24 C,100 %,N,22 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Light Rain Shower
+3/24/2021 12:00 AM,24 C,23 C,94 %,N,17 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Cloudy
+3/24/2021 12:30 AM,24 C,23 C,94 %,N,13 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Cloudy
+3/24/2021 12:42 AM,24 C,23 C,94 %,NNW,13 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 1:00 AM,24 C,23 C,94 %,N,15 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 1:30 AM,24 C,23 C,94 %,N,17 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 2:00 AM,24 C,23 C,94 %,N,15 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 2:30 AM,24 C,23 C,94 %,N,15 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 3:00 AM,23 C,23 C,100 %,N,13 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 3:30 AM,23 C,23 C,100 %,W,9 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 4:00 AM,23 C,23 C,100 %,WNW,9 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 4:30 AM,23 C,23 C,100 %,WNW,11 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 5:00 AM,23 C,22 C,94 %,WNW,11 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 5:30 AM,23 C,22 C,94 %,W,13 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 6:00 AM,22 C,22 C,100 %,W,13 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Fair
+3/24/2021 6:30 AM,23 C,22 C,94 %,WNW,11 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 7:00 AM,24 C,22 C,89 %,WNW,11 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 7:30 AM,25 C,22 C,83 %,NNW,11 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 8:00 AM,26 C,22 C,78 %,NW,15 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 8:30 AM,27 C,22 C,74 %,NNW,15 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 9:00 AM,27 C,22 C,74 %,NW,13 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 9:30 AM,27 C,21 C,70 %,WNW,19 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 10:00 AM,28 C,21 C,66 %,WNW,20 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 10:30 AM,29 C,21 C,62 %,WNW,20 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 11:00 AM,29 C,21 C,62 %,W,22 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 11:30 AM,28 C,22 C,70 %,W,24 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 12:00 PM,29 C,22 C,66 %,WSW,19 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 12:30 PM,30 C,21 C,58 %,W,24 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Mostly Cloudy
+3/24/2021 1:00 PM,31 C,21 C,55 %,W,31 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 1:30 PM,30 C,20 C,55 %,W,30 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 2:00 PM,30 C,19 C,51 %,W,28 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Partly Cloudy
+3/24/2021 2:30 PM,30 C,20 C,55 %,WNW,22 km/h,0 km/h,"1,000.53 hPa",0.0 mm,Fair
+3/24/2021 3:00 PM,31 C,19 C,49 %,W,28 km/h,0 km/h,"1,000.53 hPa",0.0 mm,Fair
+3/24/2021 3:30 PM,30 C,18 C,48 %,W,30 km/h,0 km/h,"1,000.53 hPa",0.0 mm,Fair
+3/24/2021 4:00 PM,29 C,18 C,51 %,W,33 km/h,0 km/h,"1,000.53 hPa",0.0 mm,Fair / Windy
+3/24/2021 4:30 PM,29 C,17 C,48 %,W,30 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 5:00 PM,29 C,16 C,45 %,W,26 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 5:30 PM,28 C,17 C,51 %,W,31 km/h,0 km/h,"1,001.52 hPa",0.0 mm,Fair
+3/24/2021 6:00 PM,26 C,16 C,54 %,W,24 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Fair
+3/24/2021 6:30 PM,26 C,16 C,54 %,WSW,19 km/h,0 km/h,"1,002.52 hPa",0.0 mm,Fair
+3/24/2021 7:00 PM,25 C,16 C,57 %,W,19 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/24/2021 7:30 PM,25 C,16 C,57 %,WNW,19 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/24/2021 8:00 PM,24 C,16 C,61 %,WNW,13 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/24/2021 8:30 PM,24 C,16 C,61 %,WNW,11 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/24/2021 9:00 PM,23 C,15 C,61 %,WNW,13 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/24/2021 9:30 PM,23 C,15 C,61 %,W,11 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/24/2021 10:00 PM,23 C,14 C,57 %,W,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/24/2021 10:30 PM,23 C,15 C,61 %,W,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/24/2021 11:00 PM,22 C,15 C,64 %,W,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/24/2021 11:30 PM,21 C,16 C,73 %,W,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 12:00 AM,21 C,15 C,68 %,WSW,6 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 12:30 AM,20 C,16 C,78 %,SW,7 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 1:00 AM,20 C,16 C,78 %,SW,7 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 1:30 AM,19 C,16 C,83 %,SW,9 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 2:00 AM,19 C,16 C,83 %,SSW,9 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 2:30 AM,18 C,16 C,88 %,SW,9 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 3:00 AM,18 C,16 C,88 %,WNW,4 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 3:30 AM,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 4:00 AM,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 4:30 AM,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 5:00 AM,18 C,16 C,88 %,W,7 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 5:30 AM,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 6:00 AM,18 C,16 C,88 %,WNW,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 6:30 AM,19 C,16 C,83 %,W,11 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 7:00 AM,20 C,17 C,83 %,WNW,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 7:30 AM,21 C,17 C,78 %,W,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 8:00 AM,23 C,17 C,69 %,W,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 8:30 AM,25 C,16 C,57 %,SW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 9:00 AM,26 C,15 C,51 %,SW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 9:30 AM,27 C,14 C,45 %,W,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 10:00 AM,28 C,10 C,32 %,SW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 10:30 AM,28 C,10 C,32 %,WSW,17 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 12:00 PM,29 C,13 C,37 %,W,26 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 12:30 PM,29 C,12 C,35 %,WSW,24 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 1:00 PM,30 C,12 C,33 %,W,24 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 1:30 PM,30 C,12 C,33 %,W,22 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 2:00 PM,31 C,13 C,33 %,W,28 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 2:30 PM,30 C,10 C,29 %,W,30 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/25/2021 3:00 PM,30 C,12 C,33 %,WSW,30 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/25/2021 3:30 PM,31 C,12 C,31 %,W,30 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+3/25/2021 4:00 PM,30 C,12 C,33 %,W,30 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 4:30 PM,30 C,11 C,31 %,W,28 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 5:00 PM,29 C,11 C,33 %,W,26 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+3/25/2021 5:30 PM,28 C,12 C,37 %,W,30 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 6:00 PM,26 C,11 C,39 %,WSW,19 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 6:30 PM,25 C,12 C,44 %,W,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+3/25/2021 7:00 PM,25 C,11 C,41 %,W,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+3/25/2021 7:30 PM,25 C,11 C,41 %,W,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+3/25/2021 8:00 PM,24 C,12 C,47 %,W,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+3/25/2021 8:30 PM,23 C,12 C,50 %,W,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/25/2021 9:00 PM,22 C,12 C,53 %,W,19 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/25/2021 9:30 PM,22 C,12 C,53 %,WSW,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/25/2021 10:00 PM,21 C,12 C,56 %,W,6 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/25/2021 10:30 PM,22 C,13 C,57 %,W,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/25/2021 11:00 PM,21 C,13 C,60 %,WSW,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/25/2021 11:30 PM,20 C,13 C,64 %,W,13 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 12:00 AM,20 C,14 C,68 %,W,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 12:30 AM,20 C,14 C,68 %,W,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 1:00 AM,20 C,13 C,64 %,WSW,20 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 1:30 AM,20 C,13 C,64 %,WSW,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 2:00 AM,19 C,13 C,68 %,W,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 2:30 AM,19 C,13 C,68 %,W,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 3:00 AM,18 C,13 C,73 %,W,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 3:30 AM,17 C,13 C,77 %,WSW,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 4:00 AM,18 C,14 C,77 %,SW,9 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+3/26/2021 4:30 AM,17 C,14 C,82 %,SW,7 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 5:00 AM,18 C,14 C,77 %,SW,9 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 5:30 AM,19 C,14 C,73 %,SSW,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 6:00 AM,19 C,13 C,68 %,SW,9 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 6:30 AM,19 C,14 C,73 %,SSW,11 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 7:00 AM,21 C,14 C,64 %,SSW,13 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 7:30 AM,23 C,15 C,61 %,SW,13 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 8:00 AM,24 C,13 C,50 %,SSW,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 8:30 AM,25 C,14 C,50 %,SW,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 9:00 AM,26 C,14 C,47 %,SSW,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 9:30 AM,26 C,14 C,47 %,SSW,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 10:00 AM,27 C,13 C,42 %,SSW,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 10:30 AM,27 C,13 C,42 %,S,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 11:00 AM,28 C,13 C,39 %,ESE,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 11:30 AM,27 C,15 C,48 %,ESE,13 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 12:00 PM,27 C,15 C,48 %,ESE,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 12:30 PM,28 C,15 C,45 %,ESE,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 1:00 PM,27 C,14 C,45 %,E,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 1:30 PM,27 C,16 C,51 %,E,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 2:00 PM,27 C,16 C,51 %,E,19 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 2:30 PM,27 C,16 C,51 %,E,17 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 3:00 PM,27 C,17 C,54 %,E,17 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 3:30 PM,27 C,17 C,54 %,E,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 4:00 PM,27 C,17 C,54 %,ESE,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+3/26/2021 4:30 PM,26 C,18 C,61 %,ESE,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 5:00 PM,25 C,18 C,65 %,ESE,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 5:30 PM,25 C,19 C,69 %,ESE,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/26/2021 6:00 PM,24 C,19 C,73 %,ESE,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 6:30 PM,24 C,20 C,78 %,ESE,9 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 7:00 PM,24 C,20 C,78 %,ESE,9 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/26/2021 7:30 PM,24 C,20 C,78 %,ESE,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 8:00 PM,24 C,19 C,73 %,ESE,11 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 8:30 PM,23 C,19 C,78 %,ESE,7 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/26/2021 9:00 PM,23 C,19 C,78 %,E,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/26/2021 9:30 PM,23 C,19 C,78 %,SE,6 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/26/2021 10:00 PM,23 C,19 C,78 %,ESE,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/26/2021 10:30 PM,22 C,20 C,88 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/26/2021 11:00 PM,22 C,20 C,88 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/26/2021 11:30 PM,22 C,20 C,88 %,SSW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 12:00 AM,23 C,20 C,83 %,SSW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+3/27/2021 12:30 AM,22 C,20 C,88 %,ESE,11 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 1:00 AM,22 C,20 C,88 %,E,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 1:30 AM,21 C,19 C,88 %,W,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 2:00 AM,21 C,20 C,94 %,SSW,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 2:30 AM,21 C,19 C,88 %,S,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 3:00 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 3:30 AM,20 C,19 C,94 %,SW,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 4:00 AM,20 C,18 C,88 %,SW,11 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 4:30 AM,21 C,19 C,88 %,SSW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 5:00 AM,20 C,18 C,88 %,SW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 5:30 AM,20 C,18 C,88 %,S,7 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 6:00 AM,20 C,18 C,88 %,SSW,7 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 6:30 AM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 7:00 AM,21 C,19 C,88 %,SW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+3/27/2021 7:30 AM,22 C,20 C,88 %,SSW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 8:00 AM,23 C,20 C,83 %,SW,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 8:30 AM,25 C,20 C,74 %,SW,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 9:00 AM,25 C,20 C,74 %,WSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 9:30 AM,25 C,19 C,69 %,NW,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 10:00 AM,26 C,18 C,61 %,NW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 10:30 AM,27 C,19 C,61 %,N,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 11:00 AM,27 C,19 C,61 %,NNE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 11:30 AM,28 C,20 C,62 %,NNE,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 12:00 PM,26 C,18 C,61 %,NNE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Partly Cloudy
+3/27/2021 12:30 PM,27 C,19 C,61 %,NNE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 1:00 PM,28 C,18 C,54 %,NE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 1:30 PM,27 C,20 C,65 %,NE,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 2:00 PM,28 C,20 C,62 %,NNE,22 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 2:30 PM,27 C,19 C,61 %,NE,24 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 3:00 PM,27 C,19 C,61 %,NNE,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/27/2021 3:30 PM,27 C,19 C,61 %,NNE,26 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/27/2021 4:00 PM,26 C,20 C,69 %,NNE,26 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/27/2021 4:30 PM,26 C,20 C,69 %,NNE,22 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+3/27/2021 5:00 PM,25 C,20 C,74 %,NNE,24 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 5:30 PM,25 C,19 C,69 %,NNE,24 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 6:00 PM,25 C,20 C,74 %,NNE,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+3/27/2021 6:30 PM,25 C,20 C,74 %,NNE,20 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 7:00 PM,25 C,20 C,74 %,N,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 7:30 PM,24 C,19 C,73 %,N,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/27/2021 8:00 PM,24 C,19 C,73 %,N,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/27/2021 8:30 PM,24 C,19 C,73 %,N,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/27/2021 9:00 PM,24 C,19 C,73 %,NW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 9:30 PM,23 C,19 C,78 %,WNW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 10:00 PM,23 C,19 C,78 %,WNW,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 10:30 PM,23 C,19 C,78 %,N,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 11:00 PM,23 C,18 C,73 %,N,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/27/2021 11:30 PM,22 C,18 C,78 %,NNW,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 12:00 AM,22 C,18 C,78 %,N,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 12:30 AM,22 C,18 C,78 %,N,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 1:00 AM,21 C,18 C,83 %,NW,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 1:30 AM,20 C,18 C,88 %,WNW,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 2:00 AM,20 C,18 C,88 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 2:30 AM,19 C,17 C,88 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 3:00 AM,19 C,18 C,94 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 3:30 AM,19 C,17 C,88 %,NW,2 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 4:00 AM,19 C,18 C,94 %,SSW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 4:30 AM,19 C,17 C,88 %,SSW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 5:00 AM,18 C,17 C,94 %,SW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 5:30 AM,18 C,16 C,88 %,WSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 6:00 AM,17 C,16 C,94 %,SW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 6:30 AM,19 C,17 C,88 %,SW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 7:00 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 7:30 AM,21 C,17 C,78 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 8:00 AM,22 C,17 C,73 %,WSW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 8:30 AM,24 C,16 C,61 %,W,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 9:00 AM,26 C,16 C,54 %,SW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 9:30 AM,27 C,16 C,51 %,SW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 10:00 AM,28 C,15 C,45 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/28/2021 10:30 AM,28 C,13 C,39 %,SW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/28/2021 11:00 AM,29 C,12 C,35 %,SSW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/28/2021 11:30 AM,30 C,12 C,33 %,WSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 12:00 PM,29 C,12 C,35 %,NNE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/28/2021 12:30 PM,30 C,10 C,29 %,NNE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 1:00 PM,30 C,12 C,33 %,SW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 1:30 PM,31 C,11 C,29 %,SW,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 2:00 PM,30 C,11 C,31 %,WSW,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 2:30 PM,30 C,11 C,31 %,E,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 3:00 PM,28 C,15 C,45 %,NE,11 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 3:30 PM,28 C,18 C,54 %,ENE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 4:00 PM,27 C,17 C,54 %,E,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 4:30 PM,26 C,17 C,57 %,ESE,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 5:00 PM,25 C,17 C,61 %,ESE,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+3/28/2021 5:30 PM,25 C,18 C,65 %,ESE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 6:00 PM,25 C,18 C,65 %,ESE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 6:30 PM,25 C,19 C,69 %,ESE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 7:00 PM,25 C,20 C,74 %,ESE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/28/2021 7:30 PM,25 C,20 C,74 %,E,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+3/28/2021 8:00 PM,24 C,20 C,78 %,E,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+3/28/2021 8:30 PM,24 C,20 C,78 %,E,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+3/28/2021 9:00 PM,24 C,20 C,78 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/28/2021 9:30 PM,24 C,20 C,78 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/28/2021 10:00 PM,23 C,20 C,83 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/28/2021 10:30 PM,23 C,20 C,83 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/28/2021 11:00 PM,23 C,20 C,83 %,CALM,0 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/28/2021 11:30 PM,23 C,20 C,83 %,SSW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/29/2021 12:00 AM,23 C,20 C,83 %,S,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+3/29/2021 12:30 AM,23 C,20 C,83 %,S,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 1:00 AM,23 C,19 C,78 %,S,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 1:30 AM,23 C,19 C,78 %,S,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/29/2021 2:00 AM,22 C,19 C,83 %,SSW,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Showers in the Vicinity
+3/29/2021 2:30 AM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 3:00 AM,21 C,18 C,83 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 3:30 AM,21 C,18 C,83 %,SSW,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 4:00 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 4:30 AM,19 C,17 C,88 %,SSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 5:00 AM,19 C,16 C,83 %,SSW,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 5:30 AM,19 C,16 C,83 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 6:00 AM,18 C,16 C,88 %,SW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 6:30 AM,20 C,16 C,78 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 7:00 AM,21 C,17 C,78 %,SSW,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 7:30 AM,22 C,17 C,73 %,SSW,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 8:00 AM,23 C,17 C,69 %,SW,20 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 8:30 AM,24 C,17 C,65 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 9:00 AM,25 C,18 C,65 %,SW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 9:30 AM,26 C,19 C,65 %,S,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 10:00 AM,26 C,19 C,65 %,S,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 10:30 AM,27 C,18 C,58 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 11:00 AM,28 C,20 C,62 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 11:30 AM,27 C,18 C,58 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 12:00 PM,28 C,18 C,54 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 12:30 PM,28 C,17 C,51 %,E,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 1:00 PM,27 C,16 C,51 %,E,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 1:30 PM,27 C,18 C,58 %,E,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 2:00 PM,27 C,19 C,61 %,E,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/29/2021 2:30 PM,27 C,19 C,61 %,E,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/29/2021 3:00 PM,27 C,19 C,61 %,ESE,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/29/2021 3:30 PM,26 C,19 C,65 %,ESE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+3/29/2021 4:00 PM,26 C,19 C,65 %,ESE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 4:30 PM,25 C,18 C,65 %,SE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+3/29/2021 5:00 PM,25 C,18 C,65 %,ESE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 5:30 PM,25 C,18 C,65 %,SE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 6:00 PM,25 C,18 C,65 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 6:30 PM,24 C,18 C,69 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 7:00 PM,24 C,18 C,69 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 7:30 PM,24 C,18 C,69 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+3/29/2021 8:00 PM,24 C,17 C,65 %,ESE,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/29/2021 8:30 PM,23 C,18 C,73 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 9:00 PM,23 C,18 C,73 %,SSE,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 9:30 PM,23 C,18 C,73 %,ESE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 10:00 PM,22 C,18 C,78 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/29/2021 10:30 PM,22 C,19 C,83 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 11:00 PM,22 C,19 C,83 %,S,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/29/2021 11:30 PM,22 C,18 C,78 %,S,7 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 12:00 AM,22 C,18 C,78 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 12:30 AM,21 C,18 C,83 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 1:00 AM,21 C,18 C,83 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 1:30 AM,21 C,18 C,83 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 2:00 AM,21 C,18 C,83 %,SSW,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 2:30 AM,20 C,18 C,88 %,SSW,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 3:00 AM,20 C,18 C,88 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 3:30 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 4:00 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 4:30 AM,21 C,17 C,78 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 5:00 AM,20 C,17 C,83 %,SW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 5:30 AM,20 C,17 C,83 %,S,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/30/2021 6:00 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 6:30 AM,20 C,17 C,83 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 7:00 AM,21 C,18 C,83 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 7:30 AM,22 C,18 C,78 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 8:00 AM,22 C,17 C,73 %,S,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 8:30 AM,23 C,16 C,65 %,SSE,20 km/h,39 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 9:00 AM,22 C,16 C,69 %,S,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 9:30 AM,22 C,16 C,69 %,S,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 10:00 AM,23 C,16 C,65 %,SSE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 10:30 AM,23 C,16 C,65 %,SSE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 11:00 AM,23 C,18 C,73 %,ESE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 11:30 AM,23 C,18 C,73 %,ESE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 12:00 PM,23 C,18 C,73 %,SE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 12:30 PM,24 C,19 C,73 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 1:00 PM,23 C,18 C,73 %,SE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain Shower
+3/30/2021 1:30 PM,23 C,18 C,73 %,SE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 1:53 PM,22 C,18 C,78 %,SE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Rain Shower
+3/30/2021 2:00 PM,21 C,18 C,83 %,SSE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Heavy Rain Shower
+3/30/2021 2:30 PM,22 C,18 C,78 %,SE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 3:00 PM,22 C,19 C,83 %,ESE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 3:30 PM,22 C,18 C,78 %,ESE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 4:00 PM,22 C,18 C,78 %,SE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+3/30/2021 4:30 PM,22 C,19 C,83 %,ESE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+3/30/2021 5:00 PM,22 C,19 C,83 %,E,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 5:30 PM,22 C,18 C,78 %,E,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 6:00 PM,22 C,18 C,78 %,SE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/30/2021 6:30 PM,22 C,18 C,78 %,ESE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/30/2021 7:00 PM,22 C,18 C,78 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/30/2021 7:30 PM,22 C,18 C,78 %,SE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/30/2021 8:00 PM,22 C,17 C,73 %,SE,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/30/2021 8:30 PM,21 C,17 C,78 %,SSE,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/30/2021 9:00 PM,21 C,17 C,78 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/30/2021 9:30 PM,20 C,17 C,83 %,S,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/30/2021 10:00 PM,20 C,17 C,83 %,SSW,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/30/2021 10:30 PM,20 C,17 C,83 %,S,7 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/30/2021 11:00 PM,19 C,17 C,88 %,SSW,6 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/30/2021 11:30 PM,19 C,17 C,88 %,SSW,6 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 12:00 AM,19 C,17 C,88 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 12:30 AM,18 C,16 C,88 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/31/2021 1:00 AM,18 C,16 C,88 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 1:30 AM,18 C,15 C,83 %,SW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 2:00 AM,18 C,15 C,83 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 2:30 AM,17 C,15 C,88 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 3:00 AM,18 C,15 C,83 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 3:30 AM,18 C,15 C,83 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 4:00 AM,18 C,15 C,83 %,S,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 4:30 AM,18 C,15 C,83 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 5:00 AM,18 C,15 C,83 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 5:30 AM,17 C,15 C,88 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 6:00 AM,17 C,14 C,82 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/31/2021 6:30 AM,18 C,15 C,83 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 7:00 AM,18 C,14 C,77 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/31/2021 7:30 AM,19 C,15 C,78 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/31/2021 8:00 AM,21 C,15 C,68 %,SSW,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+3/31/2021 8:30 AM,22 C,15 C,64 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/31/2021 9:00 AM,22 C,14 C,60 %,S,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/31/2021 9:30 AM,23 C,14 C,57 %,S,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/31/2021 10:00 AM,24 C,15 C,57 %,S,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+3/31/2021 10:30 AM,23 C,14 C,57 %,S,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 11:00 AM,24 C,14 C,53 %,SSE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 11:30 AM,25 C,14 C,50 %,SE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 12:00 PM,25 C,14 C,50 %,SE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 12:30 PM,25 C,15 C,54 %,SE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 1:00 PM,24 C,14 C,53 %,SE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 1:30 PM,25 C,17 C,61 %,SE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+3/31/2021 2:00 PM,25 C,15 C,54 %,SE,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+3/31/2021 2:30 PM,25 C,17 C,61 %,ESE,22 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 3:00 PM,24 C,17 C,65 %,ESE,24 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 3:30 PM,24 C,17 C,65 %,SE,22 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 4:00 PM,23 C,16 C,65 %,SE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 4:30 PM,24 C,16 C,61 %,SE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 4:49 PM,23 C,17 C,69 %,ESE,28 km/h,46 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 5:00 PM,22 C,17 C,73 %,SE,26 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 5:30 PM,22 C,17 C,73 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 6:00 PM,22 C,17 C,73 %,SE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+3/31/2021 6:30 PM,21 C,16 C,73 %,SE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 7:00 PM,21 C,16 C,73 %,SSE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+3/31/2021 7:30 PM,22 C,14 C,60 %,SSE,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 8:00 PM,21 C,14 C,64 %,SSE,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Cloudy
+3/31/2021 8:30 PM,21 C,15 C,68 %,SSE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 9:00 PM,21 C,14 C,64 %,SSE,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 9:30 PM,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 10:00 PM,21 C,15 C,68 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+3/31/2021 10:30 PM,21 C,14 C,64 %,S,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+3/31/2021 11:00 PM,20 C,14 C,68 %,S,9 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+3/31/2021 11:30 PM,20 C,14 C,68 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 12:00 AM,20 C,14 C,68 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 12:30 AM,20 C,14 C,68 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 1:00 AM,20 C,14 C,68 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 1:30 AM,19 C,15 C,78 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 2:00 AM,19 C,15 C,78 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 2:30 AM,19 C,15 C,78 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 3:00 AM,18 C,14 C,77 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/1/2021 3:30 AM,18 C,14 C,77 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/1/2021 4:00 AM,18 C,15 C,83 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/1/2021 4:30 AM,18 C,14 C,77 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/1/2021 5:00 AM,18 C,15 C,83 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 5:30 AM,18 C,14 C,77 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 6:00 AM,19 C,14 C,73 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 6:30 AM,19 C,14 C,73 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 7:00 AM,20 C,15 C,73 %,SSW,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 7:30 AM,20 C,15 C,73 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 8:00 AM,21 C,15 C,68 %,SSW,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 8:30 AM,23 C,16 C,65 %,SSW,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/1/2021 9:00 AM,23 C,15 C,61 %,SSW,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 9:30 AM,23 C,15 C,61 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 10:00 AM,24 C,16 C,61 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 10:30 AM,24 C,16 C,61 %,S,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 11:00 AM,24 C,16 C,61 %,SSE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 11:30 AM,24 C,16 C,61 %,SE,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 12:00 PM,24 C,17 C,65 %,ESE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 12:30 PM,24 C,18 C,69 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 1:00 PM,23 C,17 C,69 %,ESE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 1:30 PM,22 C,19 C,83 %,ESE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 2:00 PM,22 C,18 C,78 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 2:30 PM,23 C,18 C,73 %,ESE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 3:00 PM,24 C,18 C,69 %,ESE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 3:30 PM,23 C,17 C,69 %,S,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 4:00 PM,23 C,17 C,69 %,S,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 4:30 PM,23 C,17 C,69 %,S,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 5:00 PM,22 C,16 C,69 %,S,22 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 5:30 PM,20 C,17 C,83 %,S,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 6:00 PM,21 C,17 C,78 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 6:30 PM,21 C,17 C,78 %,SSW,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 7:00 PM,21 C,17 C,78 %,SSW,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/1/2021 7:11 PM,20 C,17 C,83 %,S,20 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 7:23 PM,19 C,18 C,94 %,S,17 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 7:30 PM,19 C,18 C,94 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 8:00 PM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+4/1/2021 8:30 PM,19 C,18 C,94 %,SSW,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 8:47 PM,19 C,18 C,94 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 9:00 PM,19 C,18 C,94 %,S,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Rain Shower
+4/1/2021 9:30 PM,19 C,18 C,94 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Rain Shower
+4/1/2021 10:00 PM,19 C,17 C,88 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 10:24 PM,19 C,18 C,94 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/1/2021 10:30 PM,19 C,18 C,94 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 11:00 PM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/1/2021 11:19 PM,19 C,18 C,94 %,SSW,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Rain Shower
+4/1/2021 11:30 PM,19 C,18 C,94 %,SSW,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/2/2021 12:00 AM,19 C,18 C,94 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 12:30 AM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 1:00 AM,19 C,17 C,88 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 1:30 AM,19 C,17 C,88 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 2:00 AM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 2:30 AM,19 C,17 C,88 %,S,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Light Rain Shower
+4/2/2021 3:00 AM,19 C,16 C,83 %,S,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 3:30 AM,19 C,16 C,83 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 4:00 AM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 4:30 AM,19 C,17 C,88 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 5:00 AM,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 5:30 AM,19 C,17 C,88 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 6:00 AM,19 C,17 C,88 %,S,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 6:30 AM,19 C,17 C,88 %,S,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 7:00 AM,20 C,17 C,83 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 7:30 AM,21 C,17 C,78 %,SE,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 8:00 AM,22 C,17 C,73 %,SSE,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 8:30 AM,24 C,16 C,61 %,SE,22 km/h,41 km/h,"1,021.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 9:00 AM,24 C,15 C,57 %,SSE,20 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Fair
+4/2/2021 9:30 AM,25 C,16 C,57 %,SE,19 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Fair
+4/2/2021 10:00 AM,24 C,15 C,57 %,SE,22 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 10:30 AM,25 C,14 C,50 %,SE,22 km/h,41 km/h,"1,021.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 11:00 AM,25 C,16 C,57 %,SE,26 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Fair
+4/2/2021 11:30 AM,25 C,16 C,57 %,ESE,24 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 12:00 PM,26 C,17 C,57 %,ESE,24 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 12:30 PM,25 C,16 C,57 %,SE,26 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 1:00 PM,25 C,15 C,54 %,SE,26 km/h,44 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 1:30 PM,25 C,16 C,57 %,SE,22 km/h,41 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 2:00 PM,25 C,14 C,50 %,SE,22 km/h,41 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 2:30 PM,24 C,15 C,57 %,SE,22 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 3:00 PM,24 C,15 C,57 %,SE,22 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 3:30 PM,25 C,15 C,54 %,SSE,20 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 4:00 PM,24 C,14 C,53 %,SSE,24 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 4:30 PM,24 C,13 C,50 %,SSE,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/2/2021 5:00 PM,24 C,15 C,57 %,SSE,22 km/h,43 km/h,"1,020.52 hPa",0.0 mm,Partly Cloudy
+4/2/2021 5:30 PM,23 C,17 C,69 %,SSE,24 km/h,43 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/2/2021 6:00 PM,23 C,16 C,65 %,SSE,20 km/h,41 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/2/2021 6:30 PM,22 C,16 C,69 %,SSE,17 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 7:00 PM,22 C,16 C,69 %,SSE,17 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 7:30 PM,22 C,16 C,69 %,S,15 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 8:00 PM,22 C,16 C,69 %,S,13 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 8:30 PM,21 C,16 C,73 %,S,11 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Light Rain Shower
+4/2/2021 9:00 PM,21 C,15 C,68 %,SSW,11 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Mostly Cloudy
+4/2/2021 9:30 PM,21 C,15 C,68 %,S,9 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 10:00 PM,21 C,15 C,68 %,SSW,11 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 10:30 PM,21 C,15 C,68 %,SSE,11 km/h,0 km/h,"1,021.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 11:00 PM,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/2/2021 11:30 PM,21 C,15 C,68 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 12:00 AM,21 C,16 C,73 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 12:30 AM,20 C,16 C,78 %,SSE,19 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 1:00 AM,20 C,16 C,78 %,S,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 1:30 AM,20 C,15 C,73 %,S,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 2:00 AM,22 C,16 C,69 %,SSE,17 km/h,35 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/3/2021 2:30 AM,22 C,16 C,69 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/3/2021 3:00 AM,22 C,15 C,64 %,SSE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/3/2021 3:30 AM,22 C,16 C,69 %,SE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 4:00 AM,22 C,16 C,69 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 4:30 AM,23 C,15 C,61 %,SE,22 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 5:00 AM,23 C,15 C,61 %,SE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/3/2021 5:30 AM,22 C,15 C,64 %,SE,20 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 6:00 AM,23 C,16 C,65 %,SE,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 6:30 AM,22 C,15 C,64 %,SSE,17 km/h,37 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 7:00 AM,22 C,16 C,69 %,SE,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 7:30 AM,20 C,17 C,83 %,SE,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 8:00 AM,21 C,17 C,78 %,SSE,20 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 8:30 AM,22 C,17 C,73 %,SSE,19 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 9:00 AM,23 C,18 C,73 %,S,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 9:30 AM,23 C,17 C,69 %,SSE,19 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 10:00 AM,24 C,17 C,65 %,SE,19 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 10:30 AM,22 C,18 C,78 %,SE,20 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 11:00 AM,23 C,18 C,73 %,SE,20 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 11:30 AM,22 C,19 C,83 %,SSE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 12:00 PM,23 C,19 C,78 %,ESE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 12:30 PM,24 C,18 C,69 %,SE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 1:00 PM,24 C,17 C,65 %,SE,24 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 1:30 PM,23 C,19 C,78 %,ESE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 2:00 PM,22 C,18 C,78 %,SE,26 km/h,50 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 2:30 PM,23 C,19 C,78 %,SE,22 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 3:00 PM,24 C,18 C,69 %,SE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 3:30 PM,24 C,18 C,69 %,SE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 4:00 PM,24 C,18 C,69 %,SE,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 4:30 PM,23 C,18 C,73 %,SSE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 5:00 PM,22 C,19 C,83 %,SSE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 5:30 PM,21 C,19 C,88 %,SSE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 6:00 PM,21 C,19 C,88 %,SSE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 6:30 PM,21 C,20 C,94 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/3/2021 7:00 PM,21 C,19 C,88 %,S,7 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 7:30 PM,21 C,19 C,88 %,SSW,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 8:00 PM,20 C,19 C,94 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 8:30 PM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 9:00 PM,21 C,19 C,88 %,S,7 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 9:30 PM,21 C,19 C,88 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Showers in the Vicinity
+4/3/2021 10:00 PM,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 10:30 PM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/3/2021 11:00 PM,20 C,19 C,94 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/3/2021 11:30 PM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/4/2021 12:00 AM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Cloudy
+4/4/2021 12:30 AM,20 C,19 C,94 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/4/2021 1:00 AM,20 C,19 C,94 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/4/2021 1:30 AM,20 C,19 C,94 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/4/2021 2:00 AM,21 C,19 C,88 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+4/4/2021 2:30 AM,21 C,19 C,88 %,E,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain Shower
+4/4/2021 2:49 AM,21 C,19 C,88 %,SE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+4/4/2021 3:00 AM,20 C,19 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+4/4/2021 3:30 AM,20 C,19 C,94 %,S,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Cloudy
+4/4/2021 4:00 AM,20 C,19 C,94 %,S,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 4:30 AM,20 C,19 C,94 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 5:00 AM,20 C,19 C,94 %,SW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Cloudy
+4/4/2021 5:30 AM,20 C,19 C,94 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/4/2021 6:00 AM,20 C,19 C,94 %,SSW,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 6:30 AM,20 C,19 C,94 %,SW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:00 AM,20 C,19 C,94 %,SW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:30 AM,20 C,20 C,100 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 8:00 AM,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 8:30 AM,22 C,20 C,88 %,ESE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 9:00 AM,22 C,20 C,88 %,SSE,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 9:30 AM,22 C,20 C,88 %,SE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 10:00 AM,22 C,20 C,88 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain
+4/4/2021 10:30 AM,23 C,21 C,88 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/4/2021 11:00 AM,23 C,21 C,88 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/4/2021 11:30 AM,22 C,20 C,88 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/4/2021 12:00 PM,23 C,20 C,83 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 12:30 PM,22 C,21 C,94 %,SSE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 1:00 PM,22 C,20 C,88 %,E,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 1:30 PM,22 C,20 C,88 %,E,20 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 2:00 PM,22 C,20 C,88 %,E,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 2:30 PM,22 C,19 C,83 %,E,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 3:00 PM,21 C,20 C,94 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 3:30 PM,21 C,20 C,94 %,SE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/4/2021 4:00 PM,21 C,19 C,88 %,ESE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 4:30 PM,21 C,19 C,88 %,SE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 5:00 PM,21 C,20 C,94 %,SE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 5:30 PM,21 C,20 C,94 %,S,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 6:00 PM,21 C,20 C,94 %,S,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 6:15 PM,21 C,20 C,94 %,ESE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 6:30 PM,21 C,20 C,94 %,SE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 6:47 PM,21 C,20 C,94 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:00 PM,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:21 PM,21 C,20 C,94 %,SE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:30 PM,21 C,20 C,94 %,SE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 7:53 PM,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+4/4/2021 8:00 PM,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+4/4/2021 8:30 PM,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Cloudy
+4/4/2021 9:00 PM,21 C,20 C,94 %,SE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 9:30 PM,21 C,20 C,94 %,SSE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain
+4/4/2021 9:48 PM,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Drizzle
+4/4/2021 10:00 PM,21 C,20 C,94 %,ESE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+4/4/2021 10:30 PM,21 C,20 C,94 %,SE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Cloudy
+4/4/2021 11:00 PM,21 C,20 C,94 %,SE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+4/4/2021 11:19 PM,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/4/2021 11:24 PM,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Drizzle
+4/4/2021 11:30 PM,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Drizzle
+4/5/2021 0:00,21 C,20 C,94 %,SE,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+4/5/2021 0:30,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+4/5/2021 1:00,22 C,20 C,88 %,SSE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 1:30,21 C,20 C,94 %,SE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+4/5/2021 2:00,22 C,20 C,88 %,SSE,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Cloudy
+4/5/2021 2:30,21 C,20 C,94 %,SSE,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 3:00,21 C,20 C,94 %,S,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 3:30,21 C,20 C,94 %,SSE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 4:00,21 C,20 C,94 %,SSW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Cloudy
+4/5/2021 4:30,21 C,20 C,94 %,S,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 5:00,21 C,20 C,94 %,S,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 5:30,21 C,20 C,94 %,SSW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 6:00,21 C,19 C,88 %,S,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/5/2021 6:30,20 C,19 C,94 %,SSE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/5/2021 7:00,20 C,20 C,100 %,S,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 7:30,21 C,20 C,94 %,S,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 8:00,21 C,20 C,94 %,S,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 8:30,21 C,20 C,94 %,SSE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 9:00,21 C,20 C,94 %,SSE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Rain
+4/5/2021 9:30,21 C,21 C,100 %,SSE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 10:00,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/5/2021 10:30,22 C,21 C,94 %,SSE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/5/2021 11:00,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/5/2021 11:23,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/5/2021 11:30,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/5/2021 12:00,22 C,22 C,100 %,SSE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/5/2021 12:21,23 C,21 C,88 %,S,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/5/2021 12:30,23 C,21 C,88 %,S,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/5/2021 13:00,23 C,21 C,88 %,S,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/5/2021 13:30,23 C,22 C,94 %,SSE,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/5/2021 14:00,23 C,21 C,88 %,SSE,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/5/2021 14:30,23 C,21 C,88 %,SSE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/5/2021 15:00,22 C,21 C,94 %,SSE,17 km/h,35 km/h,"1,012.52 hPa",0.0 mm,Light Drizzle
+4/5/2021 15:30,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Drizzle
+4/5/2021 16:00,22 C,21 C,94 %,S,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Drizzle
+4/5/2021 16:30,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Drizzle
+4/5/2021 17:00,22 C,21 C,94 %,S,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Drizzle
+4/5/2021 17:30,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Drizzle
+4/5/2021 18:00,22 C,21 C,94 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Drizzle
+4/5/2021 18:30,21 C,21 C,100 %,S,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Drizzle
+4/5/2021 18:49,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 19:00,22 C,21 C,94 %,S,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/5/2021 19:29,22 C,21 C,94 %,S,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Drizzle
+4/5/2021 19:30,21 C,21 C,100 %,S,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Drizzle
+4/5/2021 20:00,22 C,21 C,94 %,S,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/5/2021 20:30,22 C,21 C,94 %,S,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/5/2021 21:00,22 C,21 C,94 %,SSE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/5/2021 21:30,22 C,22 C,100 %,SSE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/5/2021 22:00,22 C,22 C,100 %,SE,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/5/2021 22:30,22 C,22 C,100 %,SE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain
+4/5/2021 23:00,22 C,21 C,94 %,SE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain
+4/5/2021 23:30,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 0:00,22 C,21 C,94 %,SSE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 0:30,21 C,21 C,100 %,SSE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 1:00,21 C,21 C,100 %,SSE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 1:30,21 C,21 C,100 %,SSE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Rain
+4/6/2021 1:48,21 C,21 C,100 %,S,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/6/2021 2:00,21 C,21 C,100 %,S,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 2:30,21 C,21 C,100 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Heavy Rain
+4/6/2021 2:50,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+4/6/2021 3:00,22 C,21 C,94 %,SSE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Rain
+4/6/2021 3:30,22 C,21 C,94 %,ESE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Rain
+4/6/2021 3:53,22 C,21 C,94 %,ESE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Rain
+4/6/2021 4:00,22 C,21 C,94 %,ESE,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Rain
+4/6/2021 4:30,22 C,21 C,94 %,ESE,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+4/6/2021 4:41,22 C,21 C,94 %,SE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+4/6/2021 5:00,22 C,21 C,94 %,ESE,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+4/6/2021 5:26,22 C,21 C,94 %,ESE,30 km/h,50 km/h,"1,009.52 hPa",0.0 mm,Light Rain
+4/6/2021 5:30,22 C,21 C,94 %,ESE,31 km/h,50 km/h,"1,009.52 hPa",0.0 mm,Light Rain
+4/6/2021 5:49,22 C,21 C,94 %,ESE,24 km/h,50 km/h,"1,011.52 hPa",0.0 mm,Light Rain
+4/6/2021 6:00,22 C,21 C,94 %,SSE,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain
+4/6/2021 6:17,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain
+4/6/2021 6:30,22 C,21 C,94 %,SSE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/6/2021 7:00,22 C,21 C,94 %,SSE,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain
+4/6/2021 7:30,22 C,21 C,94 %,S,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 7:37,22 C,21 C,94 %,S,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 8:00,22 C,21 C,94 %,S,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 8:14,22 C,21 C,94 %,S,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 8:30,22 C,22 C,100 %,S,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 8:41,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 8:45,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain
+4/6/2021 9:00,22 C,21 C,94 %,S,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 9:16,22 C,21 C,94 %,SSE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 9:30,22 C,22 C,100 %,SSE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 9:43,22 C,21 C,94 %,SSE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 10:00,22 C,21 C,94 %,SSE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 10:20,22 C,22 C,100 %,SSE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 10:30,23 C,21 C,88 %,SSE,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 10:56,23 C,22 C,94 %,SSE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 11:00,23 C,22 C,94 %,SSE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 11:27,23 C,22 C,94 %,SSE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 11:30,24 C,22 C,89 %,SSE,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Showers in the Vicinity
+4/6/2021 12:00,23 C,22 C,94 %,SSE,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 12:30,24 C,21 C,83 %,SE,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 13:00,25 C,22 C,83 %,SSE,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 13:05,24 C,21 C,83 %,SSE,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Rain Shower
+4/6/2021 13:15,23 C,23 C,100 %,SSE,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 13:30,23 C,22 C,94 %,SSE,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 14:00,24 C,21 C,83 %,SSE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Showers in the Vicinity
+4/6/2021 14:10,24 C,21 C,83 %,SSE,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Cloudy
+4/6/2021 14:17,24 C,21 C,83 %,SSE,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 14:30,24 C,21 C,83 %,S,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Mostly Cloudy
+4/6/2021 15:00,23 C,21 C,88 %,SSE,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 15:24,23 C,21 C,88 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 15:30,23 C,21 C,88 %,S,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Showers in the Vicinity
+4/6/2021 16:00,23 C,21 C,88 %,S,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 16:24,22 C,20 C,88 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 16:30,22 C,20 C,88 %,S,20 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 16:41,22 C,21 C,94 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 16:53,21 C,20 C,94 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 17:00,21 C,20 C,94 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 17:15,21 C,20 C,94 %,S,22 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Drizzle
+4/6/2021 17:30,21 C,19 C,88 %,S,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+4/6/2021 18:00,21 C,19 C,88 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Mostly Cloudy
+4/6/2021 18:30,21 C,19 C,88 %,SSW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Mostly Cloudy
+4/6/2021 19:00,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Showers in the Vicinity
+4/6/2021 19:30,21 C,19 C,88 %,SSW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 19:43,21 C,20 C,94 %,SSW,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 20:00,21 C,20 C,94 %,SSW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Light Rain Shower
+4/6/2021 20:30,20 C,19 C,94 %,SSW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+4/6/2021 21:00,20 C,19 C,94 %,SSW,22 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain Shower
+4/6/2021 21:30,20 C,19 C,94 %,SSW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+4/6/2021 22:00,20 C,19 C,94 %,SW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain Shower
+4/6/2021 22:08,20 C,19 C,94 %,SW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Heavy Rain Shower
+4/6/2021 22:30,20 C,19 C,94 %,SW,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Rain Shower
+4/6/2021 23:00,20 C,19 C,94 %,SSW,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Rain Shower
+4/6/2021 23:30,20 C,19 C,94 %,S,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 0:00,20 C,20 C,100 %,S,15 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 0:30,20 C,19 C,94 %,S,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 1:00,20 C,19 C,94 %,S,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 1:18,20 C,19 C,94 %,S,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 1:30,20 C,19 C,94 %,S,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 2:00,20 C,20 C,100 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 2:30,20 C,19 C,94 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 3:00,21 C,19 C,88 %,SSW,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 3:30,20 C,19 C,94 %,S,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 4:00,21 C,20 C,94 %,S,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 4:30,21 C,20 C,94 %,S,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 5:00,21 C,20 C,94 %,S,11 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 5:30,21 C,20 C,94 %,S,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Drizzle
+4/7/2021 6:00,21 C,20 C,94 %,SSW,11 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Drizzle
+4/7/2021 6:30,21 C,20 C,94 %,S,13 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Light Drizzle
+4/7/2021 7:00,21 C,20 C,94 %,SSW,11 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 7:30,22 C,20 C,88 %,SSW,13 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Drizzle
+4/7/2021 8:00,21 C,20 C,94 %,SW,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 8:06,21 C,20 C,94 %,SW,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 8:11,21 C,20 C,94 %,SW,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 8:24,21 C,21 C,100 %,SSW,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 8:30,21 C,21 C,100 %,SSW,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 9:00,22 C,21 C,94 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 9:09,22 C,21 C,94 %,S,17 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 9:30,23 C,21 C,88 %,S,15 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 10:00,23 C,20 C,83 %,SSE,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Light Rain Shower
+4/7/2021 10:30,24 C,21 C,83 %,S,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 11:00,25 C,20 C,74 %,S,17 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 11:30,23 C,21 C,88 %,S,19 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Showers in the Vicinity
+4/7/2021 12:00,25 C,20 C,74 %,S,17 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 12:30,25 C,19 C,69 %,S,20 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 13:00,26 C,20 C,69 %,SSE,19 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 13:30,26 C,20 C,69 %,S,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 14:00,26 C,19 C,65 %,S,19 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 14:30,26 C,19 C,65 %,S,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/7/2021 15:00,26 C,19 C,65 %,SE,17 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 15:30,25 C,20 C,74 %,SSE,15 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/7/2021 16:00,25 C,19 C,69 %,SSE,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 16:30,25 C,19 C,69 %,S,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 17:00,24 C,19 C,73 %,SSE,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 17:30,24 C,18 C,69 %,S,17 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 18:00,23 C,18 C,73 %,S,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 18:30,23 C,18 C,73 %,S,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 19:00,22 C,18 C,78 %,S,9 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 19:30,22 C,18 C,78 %,S,13 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 20:00,22 C,18 C,78 %,SSW,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/7/2021 20:30,22 C,18 C,78 %,SSW,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/7/2021 21:00,22 C,18 C,78 %,SSW,13 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Partly Cloudy
+4/7/2021 21:30,21 C,18 C,83 %,SSW,13 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/7/2021 22:00,21 C,18 C,83 %,SSW,13 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 22:30,20 C,18 C,88 %,SW,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/7/2021 23:00,20 C,18 C,88 %,SW,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Mostly Cloudy
+4/7/2021 23:30,20 C,18 C,88 %,SW,19 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 0:00,20 C,18 C,88 %,SSW,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/8/2021 0:30,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 1:00,20 C,18 C,88 %,SSW,15 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 1:30,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 2:00,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 2:30,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 3:00,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 3:30,19 C,17 C,88 %,SW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 4:00,19 C,17 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 4:30,19 C,17 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 5:00,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 5:30,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 6:00,19 C,17 C,88 %,SSW,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 6:30,19 C,17 C,88 %,SW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 7:00,21 C,18 C,83 %,SW,15 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 7:30,22 C,18 C,78 %,SW,20 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 8:00,22 C,18 C,78 %,SSW,22 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 8:30,23 C,18 C,73 %,SSW,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 9:00,25 C,19 C,69 %,SSW,22 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 9:30,25 C,18 C,65 %,SSW,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 10:00,25 C,19 C,69 %,SW,24 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 10:30,25 C,18 C,65 %,SSW,20 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 11:00,26 C,19 C,65 %,SSW,17 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 11:30,26 C,18 C,61 %,SSW,17 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 12:00,26 C,18 C,61 %,SSW,20 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 12:30,27 C,19 C,61 %,SSW,19 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 13:00,26 C,18 C,61 %,SSE,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Showers in the Vicinity
+4/8/2021 13:30,24 C,20 C,78 %,SE,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Rain Shower
+4/8/2021 14:00,25 C,21 C,78 %,SE,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Rain Shower
+4/8/2021 14:30,26 C,20 C,69 %,SE,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Light Rain Shower
+4/8/2021 15:00,26 C,19 C,65 %,S,11 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/8/2021 15:30,27 C,19 C,61 %,S,11 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/8/2021 16:00,27 C,19 C,61 %,SSW,13 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/8/2021 16:30,25 C,20 C,74 %,SE,11 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/8/2021 17:00,25 C,20 C,74 %,SE,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/8/2021 17:30,24 C,20 C,78 %,SE,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Partly Cloudy
+4/8/2021 18:00,23 C,20 C,83 %,SE,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/8/2021 18:30,23 C,20 C,83 %,SE,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/8/2021 19:00,23 C,19 C,78 %,SSE,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Mostly Cloudy
+4/8/2021 19:30,23 C,18 C,73 %,SSE,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 20:00,22 C,18 C,78 %,SSE,7 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 20:30,21 C,18 C,83 %,SSW,7 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 21:00,21 C,18 C,83 %,SSW,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 21:30,20 C,18 C,88 %,SSW,2 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 22:00,21 C,18 C,83 %,SW,7 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/8/2021 22:30,20 C,17 C,83 %,SSW,9 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/8/2021 23:00,20 C,17 C,83 %,SSW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/8/2021 23:30,19 C,17 C,88 %,SSW,11 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 0:00,19 C,17 C,88 %,SW,7 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 0:30,19 C,17 C,88 %,SW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 1:00,19 C,17 C,88 %,SW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 1:30,18 C,16 C,88 %,WSW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 2:00,18 C,16 C,88 %,SW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 2:30,19 C,16 C,83 %,SW,6 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 3:00,18 C,16 C,88 %,SW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 3:30,18 C,16 C,88 %,SSW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 4:00,18 C,16 C,88 %,SSW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 4:30,17 C,16 C,94 %,SW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 5:00,17 C,15 C,88 %,CALM,0 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 5:30,17 C,16 C,94 %,NW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 6:00,17 C,16 C,94 %,WNW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 6:30,18 C,16 C,88 %,W,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 7:00,19 C,17 C,88 %,NNW,2 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 7:30,21 C,17 C,78 %,W,7 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/9/2021 8:00,22 C,17 C,73 %,W,7 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/9/2021 8:30,23 C,17 C,69 %,WNW,7 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/9/2021 9:00,24 C,17 C,65 %,WSW,6 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/9/2021 9:30,25 C,18 C,65 %,NW,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 10:00,25 C,16 C,57 %,NNE,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 10:30,25 C,18 C,65 %,N,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 11:00,26 C,18 C,61 %,N,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/9/2021 11:30,26 C,18 C,61 %,NNE,15 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 12:00,26 C,18 C,61 %,NNE,15 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 12:30,26 C,18 C,61 %,NE,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/9/2021 13:00,26 C,19 C,65 %,NE,17 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/9/2021 13:30,27 C,19 C,61 %,NE,15 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 14:00,27 C,19 C,61 %,NNE,13 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 14:30,27 C,20 C,65 %,NNE,15 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 15:00,27 C,20 C,65 %,NNE,15 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/9/2021 15:30,26 C,21 C,74 %,NNE,13 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/9/2021 16:00,24 C,20 C,78 %,NNE,19 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/9/2021 16:30,24 C,20 C,78 %,NNE,17 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 17:00,24 C,20 C,78 %,NNE,17 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 17:30,23 C,20 C,83 %,N,20 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 18:00,23 C,20 C,83 %,N,22 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/9/2021 18:30,23 C,20 C,83 %,N,20 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/9/2021 19:00,23 C,20 C,83 %,N,17 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/9/2021 19:30,22 C,21 C,94 %,N,15 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 20:00,23 C,21 C,88 %,N,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 20:30,22 C,21 C,94 %,N,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 21:00,22 C,21 C,94 %,N,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 21:30,22 C,21 C,94 %,N,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 22:00,21 C,20 C,94 %,N,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 22:30,21 C,20 C,94 %,N,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 23:00,20 C,20 C,100 %,N,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/9/2021 23:30,21 C,20 C,94 %,NW,4 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 0:00,20 C,20 C,100 %,NNW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 0:30,20 C,19 C,94 %,NNW,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 1:00,20 C,19 C,94 %,WNW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 1:30,19 C,18 C,94 %,W,6 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 2:00,18 C,17 C,94 %,W,9 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 2:30,18 C,18 C,100 %,CALM,0 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 3:00,18 C,17 C,94 %,W,7 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 3:30,17 C,16 C,94 %,SW,11 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 4:00,18 C,18 C,100 %,SSW,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 4:30,18 C,17 C,94 %,SSW,2 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 5:00,18 C,17 C,94 %,SSW,7 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 5:30,18 C,16 C,88 %,S,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 6:00,18 C,16 C,88 %,S,13 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 6:30,18 C,16 C,88 %,SSW,6 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 7:00,19 C,17 C,88 %,SSW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 7:30,20 C,18 C,88 %,SSW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 8:00,21 C,18 C,83 %,SW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 8:30,22 C,18 C,78 %,SW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 9:00,24 C,17 C,65 %,WSW,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 9:30,26 C,17 C,57 %,W,4 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 10:00,27 C,17 C,54 %,W,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 10:30,29 C,16 C,45 %,NE,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 11:00,30 C,15 C,40 %,N,7 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 11:30,31 C,14 C,35 %,NW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 12:00,30 C,18 C,48 %,NNE,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 12:30,30 C,21 C,58 %,NNE,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 13:00,29 C,20 C,58 %,NNE,15 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 13:30,29 C,19 C,55 %,NE,13 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 14:00,30 C,20 C,55 %,NNE,11 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 14:30,31 C,16 C,40 %,NNE,15 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/10/2021 15:00,32 C,14 C,33 %,NW,6 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/10/2021 15:30,32 C,13 C,31 %,NNE,17 km/h,0 km/h,"1,003.52 hPa",0.0 mm,Fair
+4/10/2021 16:00,28 C,19 C,58 %,NNE,17 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 16:30,27 C,21 C,70 %,N,19 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 17:00,26 C,19 C,65 %,N,19 km/h,0 km/h,"1,004.52 hPa",0.0 mm,Fair
+4/10/2021 17:30,25 C,20 C,74 %,N,19 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 18:00,23 C,20 C,83 %,N,15 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 18:30,24 C,20 C,78 %,N,13 km/h,0 km/h,"1,005.52 hPa",0.0 mm,Fair
+4/10/2021 19:00,23 C,20 C,83 %,N,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 19:30,23 C,20 C,83 %,N,4 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 20:00,22 C,20 C,88 %,N,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 20:30,22 C,20 C,88 %,N,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/10/2021 21:00,22 C,20 C,88 %,N,7 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 21:30,22 C,20 C,88 %,N,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 22:00,21 C,20 C,94 %,N,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 22:30,21 C,20 C,94 %,CALM,0 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 23:00,21 C,20 C,94 %,NNW,6 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/10/2021 23:30,21 C,19 C,88 %,NW,9 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 0:00,20 C,18 C,88 %,SW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 0:30,20 C,17 C,83 %,CALM,0 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 1:00,19 C,17 C,88 %,CALM,0 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 1:30,19 C,17 C,88 %,CALM,0 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 2:00,18 C,17 C,94 %,SW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 2:30,19 C,17 C,88 %,SW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 3:00,19 C,15 C,78 %,SW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 3:30,19 C,15 C,78 %,SW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 4:00,18 C,15 C,83 %,SSW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 4:30,19 C,15 C,78 %,WSW,9 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 5:00,19 C,16 C,83 %,SW,11 km/h,0 km/h,"1,006.52 hPa",0.0 mm,Fair
+4/11/2021 5:30,18 C,15 C,83 %,SSW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 6:00,19 C,14 C,73 %,SSW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 6:30,19 C,15 C,78 %,SSW,13 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 7:00,20 C,14 C,68 %,SSW,15 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 7:30,21 C,15 C,68 %,SSW,11 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 8:00,22 C,15 C,64 %,SW,9 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 8:30,22 C,15 C,64 %,WSW,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 9:00,22 C,15 C,64 %,WSW,15 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 9:30,23 C,15 C,61 %,SW,13 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Mostly Cloudy
+4/11/2021 10:00,23 C,15 C,61 %,SW,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Light Rain Shower
+4/11/2021 10:30,25 C,15 C,54 %,SW,19 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 11:00,25 C,12 C,44 %,SW,19 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 11:30,26 C,11 C,39 %,S,11 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 12:00,27 C,13 C,42 %,WSW,11 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 12:30,26 C,12 C,42 %,WSW,11 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 13:00,28 C,12 C,37 %,WSW,15 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 13:30,28 C,13 C,39 %,NNW,11 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 14:00,28 C,12 C,37 %,W,20 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 14:30,28 C,12 C,37 %,WSW,22 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 15:00,29 C,11 C,33 %,W,19 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 15:30,28 C,11 C,35 %,W,26 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 16:00,28 C,10 C,32 %,W,28 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 16:30,27 C,11 C,37 %,W,20 km/h,0 km/h,"1,007.52 hPa",0.0 mm,Fair
+4/11/2021 17:00,26 C,11 C,39 %,W,22 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 17:30,25 C,10 C,39 %,W,24 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 18:00,23 C,10 C,44 %,W,20 km/h,0 km/h,"1,008.52 hPa",0.0 mm,Fair
+4/11/2021 18:30,23 C,9 C,41 %,W,19 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/11/2021 19:00,23 C,8 C,38 %,W,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/11/2021 19:30,23 C,6 C,33 %,WSW,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/11/2021 20:00,22 C,6 C,35 %,WSW,28 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/11/2021 20:30,21 C,6 C,38 %,WSW,20 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+4/11/2021 21:00,21 C,6 C,38 %,WSW,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+4/11/2021 21:30,19 C,6 C,43 %,WSW,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/11/2021 22:00,19 C,7 C,46 %,WSW,22 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/11/2021 22:30,17 C,6 C,48 %,WSW,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/11/2021 23:00,18 C,6 C,45 %,W,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/11/2021 23:30,16 C,6 C,52 %,W,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 0:00,17 C,5 C,45 %,W,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 0:30,17 C,5 C,45 %,WSW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 1:00,16 C,5 C,48 %,WSW,20 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 1:30,16 C,5 C,48 %,WSW,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 2:00,15 C,5 C,51 %,WSW,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 2:30,14 C,5 C,55 %,W,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 3:00,15 C,4 C,48 %,WSW,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 3:30,13 C,5 C,58 %,WSW,20 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/12/2021 4:00,11 C,6 C,71 %,SW,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 4:30,13 C,5 C,58 %,SW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 5:00,13 C,6 C,63 %,SW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/12/2021 5:30,13 C,5 C,58 %,SW,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/12/2021 6:00,12 C,5 C,62 %,SSW,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/12/2021 6:30,13 C,5 C,58 %,SSW,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 7:00,15 C,5 C,51 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+4/12/2021 7:30,16 C,5 C,48 %,SSW,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 8:00,18 C,6 C,45 %,SSW,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 8:30,18 C,5 C,42 %,SSW,24 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 9:00,19 C,6 C,43 %,SSW,20 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 9:30,20 C,7 C,43 %,SSW,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 10:00,21 C,9 C,46 %,S,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 10:30,21 C,9 C,46 %,S,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 11:00,22 C,10 C,46 %,SE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 11:30,23 C,11 C,47 %,SE,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 12:00,23 C,12 C,50 %,ESE,19 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 12:30,22 C,11 C,50 %,SE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 13:00,23 C,12 C,50 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 13:30,22 C,12 C,53 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 14:00,22 C,13 C,57 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 14:30,22 C,12 C,53 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 15:00,22 C,13 C,57 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 15:30,22 C,13 C,57 %,ESE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/12/2021 16:00,21 C,13 C,60 %,SE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+4/12/2021 16:30,21 C,13 C,60 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/12/2021 17:00,21 C,13 C,60 %,ESE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/12/2021 17:30,21 C,13 C,60 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/12/2021 18:00,20 C,13 C,64 %,ESE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 18:30,20 C,13 C,64 %,ESE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/12/2021 19:00,20 C,13 C,64 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/12/2021 19:30,20 C,13 C,64 %,ESE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/12/2021 20:00,20 C,13 C,64 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/12/2021 20:30,20 C,13 C,64 %,ESE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/12/2021 21:00,20 C,13 C,64 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/12/2021 21:30,19 C,13 C,68 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/12/2021 22:00,19 C,13 C,68 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/12/2021 22:30,17 C,13 C,77 %,S,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/12/2021 23:00,17 C,12 C,72 %,S,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/12/2021 23:30,17 C,11 C,68 %,S,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 0:00,18 C,11 C,64 %,S,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 0:30,18 C,12 C,68 %,S,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 1:00,18 C,11 C,64 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 1:30,18 C,12 C,68 %,S,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 2:00,19 C,11 C,60 %,SSE,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 2:30,19 C,10 C,56 %,S,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 3:00,17 C,12 C,72 %,SSW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 3:30,18 C,10 C,59 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 4:00,16 C,11 C,72 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 4:30,15 C,11 C,77 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 5:00,15 C,11 C,77 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 5:30,15 C,11 C,77 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 6:00,14 C,11 C,82 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 6:30,14 C,11 C,82 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 7:00,15 C,12 C,82 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 7:30,17 C,11 C,68 %,SSW,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 8:00,19 C,11 C,60 %,SSW,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 8:30,21 C,12 C,56 %,S,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 9:00,22 C,11 C,50 %,SSE,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 9:30,22 C,12 C,53 %,SSE,11 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 10:00,22 C,12 C,53 %,SE,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 10:30,23 C,13 C,53 %,SE,13 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 11:00,23 C,13 C,53 %,SE,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 11:30,23 C,13 C,53 %,ESE,15 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 12:00,23 C,13 C,53 %,ESE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 12:30,23 C,13 C,53 %,ESE,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/13/2021 13:00,23 C,13 C,53 %,ESE,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 13:30,23 C,13 C,53 %,ESE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/13/2021 14:00,23 C,14 C,57 %,ESE,19 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 14:30,23 C,12 C,50 %,ESE,20 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 15:00,22 C,12 C,53 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 15:30,23 C,12 C,50 %,ESE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 16:00,22 C,13 C,57 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 16:30,22 C,13 C,57 %,SE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 17:00,21 C,13 C,60 %,SE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 17:30,21 C,13 C,60 %,ESE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 18:00,20 C,13 C,64 %,ESE,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 18:30,20 C,13 C,64 %,ESE,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/13/2021 19:00,20 C,13 C,64 %,E,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 19:30,20 C,13 C,64 %,E,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 20:00,20 C,13 C,64 %,ESE,7 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 20:30,18 C,13 C,73 %,SE,7 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 21:00,17 C,13 C,77 %,SW,7 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 21:30,17 C,13 C,77 %,CALM,0 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 22:00,17 C,13 C,77 %,SW,2 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 22:30,16 C,13 C,82 %,SSW,7 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/13/2021 23:00,16 C,13 C,82 %,SSW,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/13/2021 23:30,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/14/2021 0:00,16 C,13 C,82 %,SSW,9 km/h,0 km/h,"1,020.52 hPa",0.0 mm,Fair
+4/14/2021 0:30,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 1:00,15 C,13 C,88 %,SSW,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 1:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 2:00,14 C,12 C,88 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 2:30,14 C,12 C,88 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 3:00,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 3:30,15 C,12 C,82 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 4:00,13 C,12 C,94 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 4:30,13 C,11 C,88 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 5:00,14 C,12 C,88 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 5:30,14 C,12 C,88 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 6:00,14 C,12 C,88 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/14/2021 6:30,14 C,12 C,88 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 7:00,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 7:30,16 C,13 C,82 %,SSW,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 8:00,18 C,13 C,73 %,SSW,19 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 8:30,19 C,14 C,73 %,SSW,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 9:00,20 C,13 C,64 %,SW,15 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 9:30,21 C,14 C,64 %,SW,17 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 10:00,22 C,13 C,57 %,SSW,13 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 10:30,23 C,13 C,53 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Fair
+4/14/2021 11:00,24 C,14 C,53 %,SSE,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 11:30,23 C,13 C,53 %,NNE,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/14/2021 12:00,24 C,14 C,53 %,NNE,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 12:30,24 C,14 C,53 %,N,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 13:00,25 C,14 C,50 %,NNE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 13:30,24 C,14 C,53 %,NE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 14:00,24 C,14 C,53 %,ENE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 14:30,24 C,14 C,53 %,ENE,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 15:00,24 C,14 C,53 %,NE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/14/2021 15:30,23 C,14 C,57 %,NE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/14/2021 16:00,23 C,14 C,57 %,NE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/14/2021 16:30,23 C,14 C,57 %,ENE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/14/2021 17:00,22 C,14 C,60 %,NE,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/14/2021 17:30,21 C,15 C,68 %,ENE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 18:00,20 C,15 C,73 %,NE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 18:30,19 C,15 C,78 %,NE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 19:00,19 C,15 C,78 %,NNE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 19:30,19 C,15 C,78 %,NNE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 20:00,19 C,15 C,78 %,NNE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/14/2021 20:30,19 C,15 C,78 %,NNE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 21:00,18 C,14 C,77 %,NNE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 21:30,19 C,15 C,78 %,NNE,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 22:00,19 C,16 C,83 %,W,2 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 22:30,18 C,15 C,83 %,W,7 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 23:00,18 C,14 C,77 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/14/2021 23:30,17 C,14 C,82 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/15/2021 0:00,17 C,15 C,88 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/15/2021 0:30,17 C,15 C,88 %,W,2 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 1:00,17 C,14 C,82 %,WSW,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 1:30,16 C,15 C,94 %,SSW,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 2:00,16 C,14 C,88 %,SW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 2:30,15 C,14 C,94 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 3:00,16 C,14 C,88 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 3:30,16 C,14 C,88 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 4:00,16 C,14 C,88 %,SSW,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 4:30,16 C,14 C,88 %,SSW,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 5:00,15 C,14 C,94 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 5:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 6:00,14 C,13 C,94 %,SW,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 6:30,15 C,14 C,94 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 7:00,16 C,14 C,88 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 7:30,17 C,15 C,88 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 8:00,19 C,16 C,83 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 8:30,20 C,16 C,78 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 9:00,21 C,16 C,73 %,SW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 9:30,22 C,15 C,64 %,W,4 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 10:00,24 C,16 C,61 %,NNE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 10:30,24 C,16 C,61 %,N,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/15/2021 11:00,24 C,16 C,61 %,N,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 11:30,25 C,16 C,57 %,NNE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 12:00,25 C,17 C,61 %,NNE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/15/2021 12:30,25 C,17 C,61 %,NNE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/15/2021 13:00,25 C,16 C,57 %,NE,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 13:30,25 C,17 C,61 %,NE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 14:00,25 C,16 C,57 %,NE,24 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 14:30,25 C,17 C,61 %,NNE,22 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 15:00,25 C,16 C,57 %,NE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 15:30,24 C,16 C,61 %,NE,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 16:00,24 C,17 C,65 %,NNE,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 16:30,23 C,17 C,69 %,NNE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 17:00,23 C,17 C,69 %,N,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 17:30,22 C,17 C,73 %,N,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/15/2021 18:00,22 C,17 C,73 %,N,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/15/2021 18:30,22 C,17 C,73 %,N,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/15/2021 19:00,21 C,17 C,78 %,N,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/15/2021 19:30,21 C,18 C,83 %,N,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 20:00,21 C,17 C,78 %,N,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 20:30,20 C,17 C,83 %,N,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 21:00,20 C,17 C,83 %,NNW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 21:30,20 C,17 C,83 %,NW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 22:00,19 C,16 C,83 %,NNW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 22:30,19 C,16 C,83 %,NNW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 23:00,20 C,16 C,78 %,NW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/15/2021 23:30,19 C,16 C,83 %,NW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 0:00,18 C,16 C,88 %,WNW,7 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 0:30,18 C,16 C,88 %,NW,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 1:00,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 1:30,18 C,16 C,88 %,CALM,0 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 2:00,17 C,15 C,88 %,WSW,2 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 2:30,17 C,15 C,88 %,CALM,0 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 3:00,17 C,15 C,88 %,CALM,0 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 3:30,16 C,15 C,94 %,WSW,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 4:00,17 C,15 C,88 %,SSW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 4:30,17 C,16 C,94 %,SSW,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 5:00,17 C,15 C,88 %,SW,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 5:30,17 C,15 C,88 %,SSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 6:00,16 C,15 C,94 %,SW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 6:30,16 C,15 C,94 %,SSW,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 7:00,18 C,16 C,88 %,SSW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 7:30,19 C,17 C,88 %,SSW,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 8:00,20 C,17 C,83 %,W,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 8:30,21 C,17 C,78 %,W,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 9:00,23 C,17 C,69 %,NW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 9:30,24 C,16 C,61 %,N,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 10:00,24 C,18 C,69 %,N,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 10:30,25 C,17 C,61 %,N,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 11:00,26 C,16 C,54 %,E,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/16/2021 11:30,27 C,16 C,51 %,NNE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 12:00,27 C,16 C,51 %,NNE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 12:30,28 C,19 C,58 %,NNE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 13:00,27 C,18 C,58 %,NNE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 13:30,26 C,17 C,57 %,NE,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 14:00,27 C,19 C,61 %,NE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 14:30,26 C,17 C,57 %,ENE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/16/2021 15:00,26 C,17 C,57 %,ESE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 15:30,25 C,18 C,65 %,ESE,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 16:00,25 C,17 C,61 %,ESE,19 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 16:30,24 C,18 C,69 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/16/2021 17:00,24 C,19 C,73 %,ESE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 17:30,24 C,19 C,73 %,ESE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 18:00,24 C,19 C,73 %,SE,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 18:30,23 C,18 C,73 %,SE,17 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 19:00,23 C,18 C,73 %,SE,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 19:30,23 C,18 C,73 %,SE,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 20:00,23 C,18 C,73 %,SE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 20:30,23 C,18 C,73 %,SSE,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 21:00,23 C,17 C,69 %,SSE,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 21:30,22 C,17 C,73 %,SSE,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 22:00,22 C,17 C,73 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 22:30,22 C,16 C,69 %,S,11 km/h,0 km/h,"1,019.52 hPa",0.0 mm,Partly Cloudy
+4/16/2021 23:00,21 C,16 C,73 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/16/2021 23:30,21 C,16 C,73 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Partly Cloudy
+4/17/2021 0:00,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/17/2021 0:30,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/17/2021 1:00,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/17/2021 1:30,21 C,15 C,68 %,S,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 2:00,20 C,15 C,73 %,S,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/17/2021 2:30,20 C,15 C,73 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 3:00,20 C,15 C,73 %,S,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 3:30,20 C,15 C,73 %,S,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 4:00,20 C,15 C,73 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 4:30,20 C,15 C,73 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 5:00,20 C,15 C,73 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 5:30,19 C,15 C,78 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 6:00,19 C,15 C,78 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 6:30,19 C,15 C,78 %,SW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 7:00,19 C,15 C,78 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 7:30,20 C,15 C,73 %,SSW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 8:00,20 C,15 C,73 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 8:30,21 C,15 C,68 %,SW,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 9:00,21 C,15 C,68 %,SSW,15 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 9:30,21 C,15 C,68 %,SSW,13 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Light Rain Shower
+4/17/2021 10:00,21 C,15 C,68 %,SW,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 10:30,22 C,16 C,69 %,SW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 11:00,24 C,17 C,65 %,SSE,6 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 11:30,23 C,17 C,69 %,SE,6 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 12:00,22 C,18 C,78 %,ESE,6 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+4/17/2021 12:30,22 C,19 C,83 %,SE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 13:00,22 C,18 C,78 %,SE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 13:30,23 C,18 C,73 %,SSE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 14:00,23 C,19 C,78 %,SSE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+4/17/2021 14:30,23 C,18 C,73 %,SE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Cloudy
+4/17/2021 15:00,23 C,19 C,78 %,SE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 15:30,23 C,18 C,73 %,SE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 16:00,23 C,19 C,78 %,SE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 16:30,22 C,19 C,83 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 17:00,22 C,19 C,83 %,ESE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 17:30,22 C,18 C,78 %,ESE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 18:00,21 C,19 C,88 %,SSE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Light Rain
+4/17/2021 18:30,21 C,19 C,88 %,SSE,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 19:00,21 C,19 C,88 %,SSE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+4/17/2021 19:17,21 C,19 C,88 %,S,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Light Rain Shower
+4/17/2021 19:30,20 C,18 C,88 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Rain Shower
+4/17/2021 19:35,19 C,17 C,88 %,SSW,35 km/h,54 km/h,"1,017.52 hPa",0.0 mm,Rain Shower / Windy
+4/17/2021 19:43,18 C,17 C,94 %,SW,41 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Heavy Rain Shower / Windy
+4/17/2021 19:53,18 C,18 C,100 %,SSW,31 km/h,50 km/h,"1,017.52 hPa",0.0 mm,Heavy Rain Shower
+4/17/2021 20:00,18 C,18 C,100 %,SSW,28 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Heavy Rain Shower
+4/17/2021 20:30,18 C,17 C,94 %,SSW,24 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/17/2021 21:00,18 C,17 C,94 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/17/2021 21:30,18 C,17 C,94 %,SSW,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Showers in the Vicinity
+4/17/2021 22:00,18 C,16 C,88 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 22:30,17 C,16 C,94 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 23:00,17 C,15 C,88 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/17/2021 23:30,16 C,14 C,88 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/18/2021 0:00,16 C,14 C,88 %,SW,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 0:30,16 C,14 C,88 %,SW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Light Rain
+4/18/2021 1:00,16 C,13 C,82 %,SSW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 1:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 2:00,16 C,13 C,82 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 2:30,16 C,13 C,82 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 3:00,16 C,14 C,88 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 3:30,16 C,14 C,88 %,SSW,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 4:00,15 C,14 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+4/18/2021 4:30,15 C,13 C,88 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+4/18/2021 5:00,16 C,13 C,82 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+4/18/2021 5:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 6:00,14 C,13 C,94 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 6:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Mostly Cloudy
+4/18/2021 7:00,15 C,13 C,88 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 7:30,17 C,14 C,82 %,SW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 8:00,18 C,14 C,77 %,SW,20 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 8:30,18 C,13 C,73 %,SW,19 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 9:00,19 C,13 C,68 %,SW,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 10:00,20 C,13 C,64 %,SW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 10:30,22 C,14 C,60 %,SW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 11:00,22 C,14 C,60 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 11:30,22 C,15 C,64 %,SW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 12:00,23 C,13 C,53 %,W,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 12:30,23 C,14 C,57 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 13:00,23 C,14 C,57 %,SW,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 13:30,23 C,13 C,53 %,S,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 14:00,22 C,14 C,60 %,ENE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 14:30,22 C,14 C,60 %,ENE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 15:00,22 C,15 C,64 %,ENE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 15:30,22 C,15 C,64 %,ENE,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 16:00,21 C,15 C,68 %,E,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 16:30,21 C,15 C,68 %,ESE,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/18/2021 17:00,21 C,15 C,68 %,SE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 17:30,21 C,15 C,68 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 18:00,21 C,14 C,64 %,ESE,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/18/2021 18:30,21 C,14 C,64 %,SE,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 19:00,20 C,14 C,68 %,SE,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 19:30,20 C,14 C,68 %,SSE,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/18/2021 20:00,19 C,14 C,73 %,SSE,7 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 20:30,19 C,14 C,73 %,SSE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 21:00,19 C,13 C,68 %,SSE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 21:30,19 C,13 C,68 %,SSE,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 22:00,18 C,13 C,73 %,SSE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 22:30,18 C,13 C,73 %,SSE,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 23:00,17 C,13 C,77 %,S,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/18/2021 23:30,16 C,13 C,82 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 0:00,15 C,13 C,88 %,SW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 0:30,16 C,13 C,82 %,SSW,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 1:00,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 1:30,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 2:00,16 C,13 C,82 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 2:30,16 C,13 C,82 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 3:00,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 3:30,14 C,12 C,88 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 4:00,14 C,12 C,88 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 4:30,14 C,13 C,94 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 5:00,13 C,12 C,94 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 5:30,13 C,12 C,94 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 6:00,14 C,13 C,94 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 6:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 7:00,16 C,13 C,82 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 7:30,17 C,14 C,82 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 8:00,18 C,14 C,77 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 8:30,19 C,13 C,68 %,SW,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/19/2021 9:00,20 C,14 C,68 %,SSW,17 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/19/2021 9:30,21 C,13 C,60 %,SW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 10:00,22 C,13 C,57 %,SW,15 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 10:30,23 C,13 C,53 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 11:00,23 C,13 C,53 %,S,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 11:30,24 C,11 C,44 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 12:00,24 C,13 C,50 %,ENE,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 12:30,24 C,12 C,47 %,ESE,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 13:00,23 C,12 C,50 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 13:30,24 C,12 C,47 %,ESE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 14:00,24 C,13 C,50 %,E,15 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 14:30,24 C,13 C,50 %,E,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 15:00,23 C,13 C,53 %,E,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/19/2021 15:30,23 C,13 C,53 %,E,13 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 16:00,23 C,12 C,50 %,ENE,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 16:30,23 C,13 C,53 %,E,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 17:00,22 C,14 C,60 %,E,11 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 17:30,21 C,14 C,64 %,E,9 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Fair
+4/19/2021 18:00,21 C,15 C,68 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 18:30,21 C,15 C,68 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 19:00,20 C,15 C,73 %,E,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 19:30,20 C,15 C,73 %,E,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/19/2021 20:00,20 C,15 C,73 %,E,9 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 20:30,18 C,15 C,83 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 21:00,18 C,15 C,83 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 21:30,17 C,14 C,82 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 22:00,17 C,15 C,88 %,CALM,0 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 22:30,16 C,14 C,88 %,WNW,7 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 23:00,17 C,14 C,82 %,W,6 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/19/2021 23:30,16 C,14 C,88 %,SW,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 0:00,16 C,14 C,88 %,WSW,7 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 0:30,16 C,14 C,88 %,W,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 1:00,16 C,14 C,88 %,W,7 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 1:30,15 C,14 C,94 %,SSW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 2:00,15 C,14 C,94 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 2:30,15 C,13 C,88 %,SSW,9 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 3:00,15 C,13 C,88 %,SW,11 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 3:30,15 C,13 C,88 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 4:00,15 C,14 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 4:30,14 C,13 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 5:00,14 C,13 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 5:30,14 C,13 C,94 %,SSW,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 6:00,14 C,13 C,94 %,SSW,13 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 6:30,14 C,13 C,94 %,SSW,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 7:00,15 C,14 C,94 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 7:30,17 C,14 C,82 %,SSW,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 8:00,18 C,15 C,83 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/20/2021 8:30,19 C,15 C,78 %,SW,11 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/20/2021 9:00,21 C,16 C,73 %,W,9 km/h,0 km/h,"1,018.52 hPa",0.0 mm,Fair
+4/20/2021 10:00,23 C,15 C,61 %,N,11 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 10:30,24 C,16 C,61 %,N,17 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 11:00,23 C,15 C,61 %,N,13 km/h,0 km/h,"1,017.52 hPa",0.0 mm,Fair
+4/20/2021 11:30,24 C,16 C,61 %,NNE,15 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Fair
+4/20/2021 12:00,24 C,16 C,61 %,NNE,19 km/h,0 km/h,"1,016.52 hPa",0.0 mm,Partly Cloudy
+4/20/2021 12:30,24 C,15 C,57 %,NNE,17 km/h,0 km/h,"1,015.52 hPa",0.0 mm,Partly Cloudy
+4/20/2021 13:00,25 C,17 C,61 %,NE,22 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Partly Cloudy
+4/20/2021 13:30,24 C,17 C,65 %,NNE,22 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 14:00,24 C,18 C,69 %,NNE,24 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 14:30,24 C,17 C,65 %,NNE,26 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 15:00,24 C,17 C,65 %,NNE,26 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 15:30,24 C,17 C,65 %,NNE,26 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 16:00,24 C,17 C,65 %,NNE,26 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 16:30,23 C,17 C,69 %,NNE,24 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 17:00,23 C,17 C,69 %,NNE,22 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 17:30,22 C,17 C,73 %,NNE,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 18:00,22 C,17 C,73 %,N,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 18:30,22 C,17 C,73 %,N,22 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/20/2021 19:00,22 C,18 C,78 %,N,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 19:30,22 C,17 C,73 %,N,17 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 20:00,21 C,17 C,78 %,N,19 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 20:30,20 C,16 C,78 %,NW,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 21:00,20 C,16 C,78 %,NNW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 21:30,19 C,16 C,83 %,N,13 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 22:00,20 C,16 C,78 %,N,20 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 22:30,19 C,15 C,78 %,NNW,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 23:00,18 C,15 C,83 %,N,15 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/20/2021 23:30,19 C,16 C,83 %,N,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 0:00,20 C,16 C,78 %,N,17 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 0:30,19 C,16 C,83 %,NNW,20 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 1:00,18 C,15 C,83 %,N,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 1:30,18 C,16 C,88 %,N,19 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 2:00,18 C,15 C,83 %,NNW,13 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 2:30,17 C,15 C,88 %,WNW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 3:00,16 C,14 C,88 %,NW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 3:30,16 C,14 C,88 %,NNW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 4:00,16 C,14 C,88 %,NNW,9 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 4:30,16 C,14 C,88 %,NW,4 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 5:00,16 C,14 C,88 %,NNW,11 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 5:30,17 C,15 C,88 %,NNW,7 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 6:00,17 C,14 C,82 %,CALM,0 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 6:30,16 C,14 C,88 %,N,7 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 7:00,19 C,16 C,83 %,N,15 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 7:30,20 C,15 C,73 %,NNW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 8:00,20 C,15 C,73 %,WSW,11 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/21/2021 8:30,21 C,16 C,73 %,W,9 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/21/2021 9:00,22 C,15 C,64 %,SW,6 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/21/2021 9:30,23 C,16 C,65 %,S,6 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 10:00,25 C,16 C,57 %,W,6 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 10:30,27 C,16 C,51 %,WNW,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 11:00,27 C,15 C,48 %,WNW,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 11:30,28 C,15 C,45 %,W,24 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+4/21/2021 12:00,29 C,15 C,42 %,W,19 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+4/21/2021 12:30,29 C,14 C,40 %,W,19 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/21/2021 13:00,29 C,14 C,40 %,W,24 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/21/2021 13:30,29 C,15 C,42 %,W,26 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 14:00,29 C,15 C,42 %,W,26 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 14:15,29 C,13 C,37 %,W,28 km/h,52 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 14:30,29 C,12 C,35 %,W,31 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 15:00,30 C,11 C,31 %,W,28 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 15:30,29 C,8 C,27 %,W,28 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 16:00,29 C,6 C,23 %,W,30 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 16:30,28 C,7 C,26 %,WSW,26 km/h,0 km/h,"1,009.52 hPa",0.0 mm,Fair
+4/21/2021 17:00,27 C,7 C,28 %,WSW,26 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/21/2021 17:30,26 C,6 C,28 %,SW,20 km/h,0 km/h,"1,010.52 hPa",0.0 mm,Fair
+4/21/2021 18:00,25 C,5 C,28 %,SSW,11 km/h,0 km/h,"1,011.52 hPa",0.0 mm,Fair
+4/21/2021 18:30,23 C,5 C,31 %,W,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 19:00,22 C,6 C,35 %,W,19 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 19:30,21 C,6 C,38 %,SW,24 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 20:00,20 C,6 C,40 %,SW,17 km/h,0 km/h,"1,012.52 hPa",0.0 mm,Fair
+4/21/2021 20:30,20 C,6 C,40 %,SE,4 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 21:00,19 C,6 C,43 %,S,7 km/h,0 km/h,"1,014.52 hPa",0.0 mm,Fair
+4/21/2021 21:30,20 C,6 C,40 %,SSW,13 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 22:00,17 C,8 C,55 %,SW,11 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 22:30,16 C,7 C,55 %,CALM,0 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 23:00,16 C,7 C,55 %,S,6 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
+4/21/2021 23:30,16 C,8 C,59 %,S,9 km/h,0 km/h,"1,013.52 hPa",0.0 mm,Fair
